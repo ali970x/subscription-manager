@@ -1,0 +1,823 @@
+--------- beginning of main
+07-23 10:02:17.583  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.584  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.585  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.586  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.587  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.588  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.589  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.590  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.591  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.592  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.593  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.594  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.595  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.596  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/sync/renewing/failed - not connected or not ready to send realtime events
+07-23 10:02:17.597  8808  9159 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+--------- beginning of system
+07-23 10:02:17.791  1268  2261 W DeviceStorageMonitorService: updateBroadcasts(/data) oldLevel:0, newLevel:0, seq:1
+07-23 10:02:17.793  1268  2261 D DeviceStorageMonitorService: Available File Node Number is [13086562]
+07-23 10:02:17.793  1268  2261 W DeviceStorageMonitorService: updateBroadcasts_filenode(/data) fn_oldLevel:0, fn_newLevel:0, seq:1
+07-23 10:02:17.973  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:17.973  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:17.973  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:18.183  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.01538528]
+07-23 10:02:18.184  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.066205785]
+07-23 10:02:18.184  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.45111308]
+07-23 10:02:18.184  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.14125 msecs
+07-23 10:02:18.186  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.663802 msecs
+07-23 10:02:18.188  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.194636 msecs
+07-23 10:02:18.188  1268  2309 I SemWifiServiceDetector: NSD results: [0, 0, 2, 0, 0, 1, 0, 1, 1] Traff. type 1 Thr 46
+07-23 10:02:18.190  1268  2313 D SemWifiOptimizer: enable=0 state=0x10 prev=0x00 new=0x00 force=0 mode=0
+07-23 10:02:18.393  2426  2528 D MobileStatusTracker(0/5): onSignalStrengthsChanged level=3, vendorLevel=4
+07-23 10:02:18.394  2426  2528 D MobileSignalController(0/5): notifyListener: enabled=true, connected=true, dataConnected=false, networkType=LTE (LTE), emergencyOnly=false, roaming=false, isDefault=false, dataActivity=inout, level=4, ca=false, mmWave=false, disabledDataIcon=false, simCard=ETC
+07-23 10:02:18.397  2426  2528 D NetworkController: SignalStrength from intent slotId=0
+07-23 10:02:18.518  1268  2413 I Pageboost: IoRecord pid : 8763
+07-23 10:02:18.524  1268  2413 I Pageboost: IoRecord pid : 8763, result_size : 52459
+07-23 10:02:18.529  1268  2413 I Pageboost: db create : CREATE TABLE IF NOT EXISTS comdevlabmy_subscriptions (FILENAME TEXT, OFFSET INTEGER, SIZE INTEGER, FORVRAMDISK INTEGER, BITMAP BLOB, unique (FILENAME, OFFSET) );
+07-23 10:02:18.534  1268  2413 I Pageboost: db create : CREATE TABLE IF NOT EXISTS comdevlabmy_subscriptions (FILENAME TEXT, OFFSET INTEGER, SIZE INTEGER, FORVRAMDISK INTEGER, BITMAP BLOB, unique (FILENAME, OFFSET) );
+07-23 10:02:18.537  1268  2413 I Pageboost: db insert start
+07-23 10:02:18.690  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.011943737]
+07-23 10:02:18.691  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.53570276]
+07-23 10:02:18.691  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.84630054]
+07-23 10:02:18.691  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.800105 msecs
+07-23 10:02:18.692  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.328958 msecs
+07-23 10:02:18.693  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.140157 msecs
+07-23 10:02:18.697  1268  2413 I Pageboost: db insert done, overLimit false
+07-23 10:02:18.699  1268  2413 I Pageboost: captureFinished success : 73154560
+07-23 10:02:18.701  1268  2413 I Pageboost: db update :com.devlab.my_subscriptions ret 1
+07-23 10:02:18.757  1268  2413 I Pageboost: memUsage collected : 46787 0 768 for com.devlab.my_subscriptions 8763
+07-23 10:02:18.813  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201635] accel_sample [ 0.176, -0.040,  9.708] 527384932691286
+07-23 10:02:18.842  7102  7102 I wpa_supplicant: Heartbeat 10977
+07-23 10:02:18.973  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:18.973  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:18.973  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:19.064  8763  9373 D ProfileInstaller: Installing profile for com.devlab.my_subscriptions
+07-23 10:02:19.194  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.013227601]
+07-23 10:02:19.195  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.48887914]
+07-23 10:02:19.195  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.86964655]
+07-23 10:02:19.195  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.868438 msecs
+07-23 10:02:19.197  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.574375 msecs
+07-23 10:02:19.198  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.418646 msecs
+07-23 10:02:19.503  2426  9376 D MemoryMonitor:  - Memory Information -
+07-23 10:02:19.533   706   706 D io_stats: !@   8,0 r 46588134 813046664 w 17479790 245987656 d 7920840 200572084 f 0 0 iot 11125780 0 th 0 0 0 pt 0 inp 0 0 433898.298
+07-23 10:02:19.545  1268  9245 D SGM:GameManager: identifyGamePackage. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 0, callingMethodInfo: com.android.server.ssrm.SortingMachine.isGame(SortingMachine.java:162)
+07-23 10:02:19.545  1268  9245 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:19.699  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.038298864]
+07-23 10:02:19.700  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.33867303]
+07-23 10:02:19.700  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.74946266]
+07-23 10:02:19.700  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.725677 msecs
+07-23 10:02:19.701  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.328958 msecs
+07-23 10:02:19.703  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.165157 msecs
+07-23 10:02:19.761  2426  9376 D MemoryMonitor: Dalvik Heap : 61411
+07-23 10:02:19.761  2426  9376 D MemoryMonitor: Native Heap : 231608
+07-23 10:02:19.761  2426  9376 D MemoryMonitor: Graphics : 28180
+07-23 10:02:19.761  2426  9376 D MemoryMonitor: Total PSS : 422780
+07-23 10:02:19.761  2426  9376 D MemoryMonitor:  - View count -
+07-23 10:02:19.866  2426  9376 D MemoryMonitor: View=3804
+07-23 10:02:19.866  2426  9376 D MemoryMonitor: ViewRootImpl=11
+07-23 10:02:19.974  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:19.974  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:19.974  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:20.204  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.03975524]
+07-23 10:02:20.204  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.31041008]
+07-23 10:02:20.204  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.81441206]
+07-23 10:02:20.204  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.758594 msecs
+07-23 10:02:20.206  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.407396 msecs
+07-23 10:02:20.207  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.196302 msecs
+07-23 10:02:20.621  1268  1576 I ActivityManager: Changes in 10182 5 to 15, 8 to 0
+07-23 10:02:20.857  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201645] accel_sample [ 0.172, -0.045,  9.700] 527386976781338
+07-23 10:02:20.974  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:20.974  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:20.974  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:21.188  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.020696687]
+07-23 10:02:21.188  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.32322755]
+07-23 10:02:21.189  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.8830452]
+07-23 10:02:21.189  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.37349 msecs
+07-23 10:02:21.192  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 3.236458 msecs
+07-23 10:02:21.195  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.331979 msecs
+07-23 10:02:21.195  1268  2309 I SemWifiServiceDetector: NSD results: [0, 0, 2, 0, 0, 1, 0, 1, 0] Traff. type 1 Thr 0
+07-23 10:02:21.196  1268  2313 D SemWifiOptimizer: enable=0 state=0x10 prev=0x00 new=0x00 force=0 mode=0
+07-23 10:02:21.501  1268  5169 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 150
+07-23 10:02:21.502  1268  5169 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:21.503 14901 14940 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:21.504  1268  5169 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 0
+07-23 10:02:21.504  1268  5169 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:21.505 25336 25364 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:21.645  1268  4622 I GenerationRegistry: mBackingStore.isClosed() : false
+07-23 10:02:21.655  1268  5169 W ProcessStats: Tracking association SourceState{26eba74 com.google.android.gms/10232 BTopFgs #2948299} whose proc state 2 is better than process ProcessState{e287ce0 com.google.android.gms.persistent/10232 pkg=com.google.android.gms} proc state 3 (1894 skipped)
+07-23 10:02:21.656  8785  9378 I Finsky:background: [13937] playLoggingServerUrl: https://play.googleapis.com/play/log
+07-23 10:02:21.656  8785  9378 I Finsky:background: [13937] playLoggingServerTimestampUrl: https://play.googleapis.com/play/log/timestamp
+07-23 10:02:21.697  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.03932646]
+07-23 10:02:21.697  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.4591313]
+07-23 10:02:21.697  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.9084977]
+07-23 10:02:21.698  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.855834 msecs
+07-23 10:02:21.699  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.615469 msecs
+07-23 10:02:21.701  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.376302 msecs
+07-23 10:02:21.755  4539  5658 I SDHMS:D : SIOP:: AP:372 BAT:338 USB:342 CHG:341 PA:-777 CP:345 WIFI:362 CF:348 BLK:0 SUBBAT:0 SKIN:360 SKINF:-777 SKINB:-777 LRP:360 LRF:-777 LRB:-777 BLRF:359 BLRB:360 APT:-777 APR:-777 ANT0:-777 
+07-23 10:02:21.755  4539  5658 I SDHMS:D : MODEMQ:: 
+07-23 10:02:21.768  1268  1268 D SemWifiP2pGoPowerSave: GopsReceiver : received : com.samsung.intent.action.CHECK_SIOP_LEVEL
+07-23 10:02:21.768  1268  1268 I SemWifiP2pGoPowerSave: siop_level = 0
+07-23 10:02:21.769 25336 25360 I SystemBroadcastReceiver: [#CMH#] onReceive completed :  0
+07-23 10:02:21.769 25336 25336 I PolicyManager: [#CMH#] onReceive action = EVENT_SIOP
+07-23 10:02:21.771 14901 14929 I SystemBroadcastReceiver: [#CMH#] onReceive completed :  0
+07-23 10:02:21.772 14901 14901 I PolicyManager: [#CMH#] onReceive action = EVENT_SIOP
+07-23 10:02:21.772  1013  1013 I sensors-hal: set_config:67, sample_period_ns is adjusted to 0 based on min/max delay_ns
+07-23 10:02:21.772  1013  1013 I sensors-hal: batch:363, android.sensor.light/51, period=200000000, max_latency=0 request completed
+07-23 10:02:21.773  1013  1013 I sensors-hal: activate:279, android.sensor.light/51 en=1
+07-23 10:02:21.773  1013  1013 I sensors-hal: get_qmi_debug_flag:241, support_qmi_debug : false
+07-23 10:02:21.778  1013  1013 I sensors-hal: activate:297, android.sensor.light/51 en=1 completed
+07-23 10:02:21.781  1013  1013 D SensorsFlicker: Als_common::setDelay, handle : 1 time : 10000000ns
+07-23 10:02:21.782  1013  1013 D SensorsFlicker: Als_common::enable, handle : 1, mode : 1, en : 1
+07-23 10:02:21.783  1013  1013 D SensorsFlicker: Als_common::sendCommand, send enable command
+07-23 10:02:21.801  1268  5169 D SemContextService: lock : registerCallback
+07-23 10:02:21.801  1268  5169 W CAE     : registerCallback(ContextAwareService.java:192) - [regi 01] Mutex is locked for TEST_FLAT_MOTION
+07-23 10:02:21.801  1268  5169 W CAE     : registerCallback(ContextAwareService.java:199) - [regi 04]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:21.801  1268  5169 W CAE     : getListener(ListenerListManager.java:127) - [getListener1]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:21.802  1268  5169 W CAE     : getListener(ListenerListManager.java:128) - [getListener2]  com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba
+07-23 10:02:21.802  1268  5169 V CAE     : start(ContextProvider.java:128)
+07-23 10:02:21.802  1268  5169 V CAE     : clear(TestFlatMotionRunner.java:126)
+07-23 10:02:21.803  1268  5169 V CAE     : enable(TestFlatMotionRunner.java:102)
+07-23 10:02:21.804  1268  2185 D SensorService: setSContextDataLocked ints length 2 , byte length 4
+07-23 10:02:21.804  1268  2185 D SensorService: setSContextDataLocked 17b1
+07-23 10:02:21.804  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:21.804  1013  1013 I sensors-hal: sendContextData:286, sensor hal 4, (0xb1, 0x17, 0x0, 0x0)
+07-23 10:02:21.804  1013  1013 I sensors-hal: sendContextData:344, enable:177, handle:8, algo:16777216
+07-23 10:02:21.805  1013  1013 E sensors-hal: is_restrict_mode:142, fread fail
+07-23 10:02:21.805  1013  1013 I sensors-hal: sendContextData:107, device_position 4
+07-23 10:02:21.805  1013  1013 I sensors-hal: get_qmi_debug_flag:241, support_qmi_debug : false
+07-23 10:02:21.812  1013  1013 I sensors-hal: create_sensor_config_request:47, device_position create_sensor_config_request
+07-23 10:02:21.813  1268  5169 D CAE     : getFaultDetectionResult(TestFlatMotionRunner.java:139) - true
+07-23 10:02:21.813  1268  5169 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:627) - CheckResult = 0, Cause = Success
+07-23 10:02:21.815  1268  5169 D CAE     : doCommendProcess(ContextAwareService.java:400) - complete notify the operation result.
+07-23 10:02:21.816  1268  5169 I CAE     : displayUsedCountForService(ContextAwareService.java:464) - totalCnt = 1, serviceCount = 1, subCollectionCount = 0
+07-23 10:02:21.816  1268  5169 D CAE     : showListenerList(ContextAwareService.java:329) - ===== Context Aware Service List =====
+07-23 10:02:21.816  1268  5169 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : ACTIVITY_TRACKER_BATCH(1)
+07-23 10:02:21.816  1268  5169 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : FREE_FALL_DETECTION(1)
+07-23 10:02:21.816  1268  5169 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : TEST_FLAT_MOTION(1)
+07-23 10:02:21.816  1268  5169 W CAE     : registerCallback(ContextAwareService.java:213) - [regi 02] Mutex is unlocked for TEST_FLAT_MOTION
+07-23 10:02:21.816  1268  5169 E SemContext.CaeProvider: setAttribute() : attribute is null!
+07-23 10:02:21.816  1268  5169 D SemContextService: 	.registerCallback : 3, client= com.sec.android.sdhms
+07-23 10:02:21.816  1268  5169 D SemContextConnectionList: client packageName : com.sec.android.sdhms
+07-23 10:02:21.817  1268  5169 D SemContextService: unlock : registerCallback
+07-23 10:02:21.818  1268  5169 E SensorService: BigData:Pakage) 5 already enabled. 
+07-23 10:02:21.855  1268  5169 D SensorService: Calling activate off 33554433
+07-23 10:02:21.855  1013  1013 D SensorsFlicker: Als_common::setDelay, handle : 1 time : 10000000ns
+07-23 10:02:21.857  1268  4622 D SensorService: Calling activate off 33554433
+07-23 10:02:21.857  1013  1013 D SensorsFlicker: Als_common::enable, handle : 1, mode : 1, en : 0
+07-23 10:02:21.857  1013  1013 D SensorsFlicker: Als_common::sendCommand, send disable command
+07-23 10:02:21.876  1013  9405 I sensors-hal: handle_indication_realtime:466,  SCHED_FIFO(10) for qmi_cbk
+07-23 10:02:21.876  1013  9405 I sensors-hal: handle_sns_std_sensor_event:131, [SSC_LIGHT] A: 6(6),m:0,c:0,b:0,ch:0,r:0,bl:0,16:0
+07-23 10:02:21.974  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:21.975  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:21.975  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:22.084  1013  9407 I sensors-hal: handle_sns_client_event:77, device_position_event: msgid:1025
+07-23 10:02:22.084  1013  9407 I sensors-hal: handle_sns_client_event:96, device_position_event: 1
+07-23 10:02:22.088  1268  2185 D SensorService: setSContextDataLocked ints length 3 , byte length 5
+07-23 10:02:22.088  1268  2185 D SensorService: setSContextDataLocked 2070ec1
+07-23 10:02:22.088  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:22.088  1013  1013 I sensors-hal: sendContextData:286, sensor hal 5, (0xc1, 0xe, 0x7, 0x2)
+07-23 10:02:22.088  1013  1013 I sensors-hal: sendContextData:229, activities 5 c1
+07-23 10:02:22.088  1013  1013 I sensors-hal: sendUserData:246, Activities cmd 0xc1 0xe
+07-23 10:02:22.088  1013  1013 I sensors-hal: sendUserData:260, Activities system time h 7 m 2 s 22
+07-23 10:02:22.088  1013  1013 I sensors-hal: create_send_context_data:79, sending create_send_context_data
+07-23 10:02:22.088  1013  1013 I sensors-hal: send_context_data:632, activities, 4914309220830019584, 1320970896291267344, msgid:700
+07-23 10:02:22.090  1013  1013 I sensors-hal: sendContextData:94, common_info 5
+07-23 10:02:22.090  1013  1013 I sensors-hal: sendUserData:117, CommonInfo 0xc1 0xe 0x7 0x2
+07-23 10:02:22.090  1013  1013 I sensors-hal: create_send_context_data:67, sending create_send_context_data
+07-23 10:02:22.090  1013  1013 I sensors-hal: send_context_data:632, common_info, 4914309147815575552, 1320970896291267344, msgid:700
+07-23 10:02:22.092  1268  2177 D CAE     : onGetSensorHubData(SensorHubParserProvider.java:89) - onGetSensorHubData Event [event buffer len :4], AP_SLEEP
+07-23 10:02:22.092  1268  2177 I CAE     : parse(SensorHubParserProvider.java:190) - buffer size = 4
+07-23 10:02:22.093  1268  2177 I CAE     : parse(SensorHubParserProvider.java:201) - 1, 1, 23, 1,
+07-23 10:02:22.093  1268  2177 D CAE     : display(ContextProvider.java:375) - ================= TEST_FLAT_MOTION =================
+07-23 10:02:22.093  1268  2177 I CAE     : display(ContextProvider.java:391) - Action=[1]
+07-23 10:02:22.095  1268  2174 D SemContextService: Service.updateContext() : service = Device Position
+07-23 10:02:22.096  1268  4627 D SemContextService: lock : unregisterCallback
+07-23 10:02:22.096  1268  4627 D SemContextService: Service.removeListenerLocked() : listener = com.samsung.android.hardware.context.SemContextService$Listener@807181c, service = Device Position, used = 0
+07-23 10:02:22.097  1268  4627 W CAE     : unregisterCallback(ContextAwareService.java:234) - [unregi 01] Mutex is locked for TEST_FLAT_MOTION
+07-23 10:02:22.097  1268  4627 W CAE     : getListener(ListenerListManager.java:127) - [getListener1]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:22.097  1268  4627 W CAE     : getListener(ListenerListManager.java:128) - [getListener2]  com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba
+07-23 10:02:22.097  1268  4627 V CAE     : stop(ContextProvider.java:155)
+07-23 10:02:22.098  1268  4627 V CAE     : clear(TestFlatMotionRunner.java:126)
+07-23 10:02:22.098  1268  4627 V CAE     : disable(TestFlatMotionRunner.java:115)
+07-23 10:02:22.099  1268  2185 D SensorService: setSContextDataLocked ints length 2 , byte length 4
+07-23 10:02:22.099  1268  2185 D SensorService: setSContextDataLocked 17b2
+07-23 10:02:22.099  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:22.099  1013  1013 I sensors-hal: sendContextData:286, sensor hal 4, (0xb2, 0x17, 0x0, 0x0)
+07-23 10:02:22.099  1013  1013 I sensors-hal: sendContextData:344, enable:178, handle:8, algo:16777472
+07-23 10:02:22.099  1013  1013 I sensors-hal: sendContextData:107, device_position 4
+07-23 10:02:22.101  1013  1013 I sensors-hal: deactivate:371, disconnect qmi to disable sensor
+07-23 10:02:22.101  1268  4627 D CAE     : getFaultDetectionResult(TestFlatMotionRunner.java:139) - true
+07-23 10:02:22.102  1268  4627 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:627) - CheckResult = 0, Cause = Success
+07-23 10:02:22.104  1268  4627 D CAE     : doCommendProcess(ContextAwareService.java:400) - complete notify the operation result.
+07-23 10:02:22.105  1268  4627 I CAE     : displayUsedCountForService(ContextAwareService.java:464) - totalCnt = 0, serviceCount = 0, subCollectionCount = 0
+07-23 10:02:22.105  1268  4627 D CAE     : showListenerList(ContextAwareService.java:329) - ===== Context Aware Service List =====
+07-23 10:02:22.105  1268  4627 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : ACTIVITY_TRACKER_BATCH(1)
+07-23 10:02:22.105  1268  4627 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : FREE_FALL_DETECTION(1)
+07-23 10:02:22.106  1268  4627 W CAE     : unregisterCallback(ContextAwareService.java:255) - [unregi 02] Mutex is unlocked for TEST_FLAT_MOTION
+07-23 10:02:22.106  1268  4627 D SemContextService: 	.unregisterCallback : 3, client= com.sec.android.sdhms
+07-23 10:02:22.106  1268  4627 D SemContextService: unlock : unregisterCallback
+07-23 10:02:22.196  1013  9405 I sensors-hal: handle_sns_std_sensor_event:131, [SSC_LIGHT] A: 5(5),m:0,c:0,b:0,ch:0,r:0,bl:0,16:0
+07-23 10:02:22.197  1268  4627 D SensorService: Calling activate off 51
+07-23 10:02:22.198  1013  1013 I sensors-hal: set_config:67, sample_period_ns is adjusted to 0 based on min/max delay_ns
+07-23 10:02:22.198  1013  1013 I sensors-hal: batch:363, android.sensor.light/51, period=200000000, max_latency=0 request completed
+07-23 10:02:22.199  1268  4622 E SensorService: BigData:Pakage) 5 already disabled. 
+07-23 10:02:22.200  1268  4622 D SensorService: Calling activate off 51
+07-23 10:02:22.200  1013  1013 I sensors-hal: activate:279, android.sensor.light/51 en=0
+07-23 10:02:22.201  1013  1013 I sensors-hal: deactivate:371, disconnect qmi to disable sensor
+07-23 10:02:22.201  1013  1013 I sensors-hal: activate:297, android.sensor.light/51 en=0 completed
+07-23 10:02:22.202  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.036870472]
+07-23 10:02:22.203  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.19118538]
+07-23 10:02:22.203  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.90835315]
+07-23 10:02:22.203  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.259427 msecs
+07-23 10:02:22.205  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.973958 msecs
+07-23 10:02:22.207  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.776354 msecs
+07-23 10:02:22.241  2426  2528 D MobileStatusTracker(0/5): onSignalStrengthsChanged level=3, vendorLevel=4
+07-23 10:02:22.243  2426  2528 D MobileSignalController(0/5): notifyListener: enabled=true, connected=true, dataConnected=false, networkType=LTE (LTE), emergencyOnly=false, roaming=false, isDefault=false, dataActivity=inout, level=4, ca=false, mmWave=false, disabledDataIcon=false, simCard=ETC
+07-23 10:02:22.246  2426  2528 D NetworkController: SignalStrength from intent slotId=0
+07-23 10:02:22.450  3617  3617 I adbd    : adbd service requested 'exec:screencap '-p''
+07-23 10:02:22.482   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:22.482   653   672 D OPS_SERVICE: set_display_clock_vote 1
+07-23 10:02:22.485   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:22.485   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:22.487   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:22.487   653   672 D OPS_SERVICE: set_display_clock_vote 0
+07-23 10:02:22.488   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:22.488   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:22.632  1268  5169 I EDMNativeHelperService: isScreenCaptureEnabled
+07-23 10:02:22.633  1268  5169 D RestrictionPolicy: isScreenCaptureEnabled : ret=true userId=0
+07-23 10:02:22.633  9419  9419 W ProcessState: Extra binder thread started, but 0 threads requested. Do not use *startThreadPool when zero threads are requested.
+07-23 10:02:22.683   636   642 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+07-23 10:02:22.708  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.041172784]
+07-23 10:02:22.709  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.15304023]
+07-23 10:02:22.709  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.88229847]
+07-23 10:02:22.709  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.915313 msecs
+07-23 10:02:22.711  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.083333 msecs
+07-23 10:02:22.713  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.569531 msecs
+07-23 10:02:22.901  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201655] accel_sample [ 0.167, -0.044,  9.686] 527389020877588
+07-23 10:02:22.975  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:22.975  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:22.975  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:23.214  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.0509911]
+07-23 10:02:23.215  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.17430742]
+07-23 10:02:23.215  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.8742591]
+07-23 10:02:23.215  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.581302 msecs
+07-23 10:02:23.218  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.72125 msecs
+07-23 10:02:23.221  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.533177 msecs
+07-23 10:02:23.551   706   706 D io_stats: !@   8,0 r 46588204 813047056 w 17479821 245988156 d 7920840 200572084 f 0 0 iot 11125816 0 th 0 0 0 pt 0 inp 0 0 433902.316
+07-23 10:02:23.689  1268  2309 I SemWifiServiceDetector: Traff. tracking stopped
+07-23 10:02:23.772  1268  4622 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 0
+07-23 10:02:23.773  1268  4622 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:23.773 25336 25364 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:23.776  1268  4622 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 150
+07-23 10:02:23.776  1268  4622 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:23.776 14901 14940 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:23.975  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:23.976  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:23.976  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:24.095  1268  1740 D MARsPolicyManager: triggerAction called!
+07-23 10:02:24.095  1268  1740 I NSLocationMonitor: getGPSUsingApps() called
+07-23 10:02:24.110  3419 20813 I NSLocationManager_FLP: getGPSUsingApps, NO_FREEZE={5013} / FREEZE={}
+07-23 10:02:24.124  1268  1740 D FreecessController: FZ : com.whatsapp(22814)
+07-23 10:02:24.126  1268  1740 D FreecessController: FZ : com.whatsapp(0), reason: LEV
+07-23 10:02:24.130  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 10316 , disable= true
+07-23 10:02:24.130  1268  3430 I PowerManagerService: [PWL] can not change uid =  10316
+07-23 10:02:24.130  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[10316]=true
+07-23 10:02:24.131  1268  1740 D FreecessController: FZ : com.whatsapp(7990)
+07-23 10:02:24.132  1268  1740 D FreecessController: FZ : com.whatsapp(150), reason: LEV
+07-23 10:02:24.135  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 15010316 , disable= true
+07-23 10:02:24.135  1268  3430 I PowerManagerService: [PWL] can not change uid =  15010316
+07-23 10:02:24.135  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[15010316]=true
+07-23 10:02:24.135  1268  1740 D FreecessController: FZ : com.openai.chatgpt(13181)
+07-23 10:02:24.137  1268  1740 D FreecessController: FZ : com.openai.chatgpt(0), reason: LEV
+07-23 10:02:24.140  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 10315 , disable= true
+07-23 10:02:24.140  1268  3430 I PowerManagerService: [PWL] can not change uid =  10315
+07-23 10:02:24.140  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[10315]=true
+07-23 10:02:24.140  1268  1740 D FreecessController: FZ : com.todoist(6812)
+07-23 10:02:24.141  1268  1740 D FreecessController: FZ : com.todoist(0), reason: LEV
+07-23 10:02:24.142  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 10487 , disable= true
+07-23 10:02:24.143  1268  3430 I PowerManagerService: [PWL] can not change uid =  10487
+07-23 10:02:24.143  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[10487]=true
+07-23 10:02:24.143  1268  1740 D FreecessController: FZ : com.facebook.orca(1224)
+07-23 10:02:24.143  1268  1740 D FreecessController: FZ : com.facebook.orca(0), reason: LEV
+07-23 10:02:24.145  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 10548 , disable= true
+07-23 10:02:24.145  1268  3430 I PowerManagerService: [PWL] can not change uid =  10548
+07-23 10:02:24.145  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[10548]=true
+07-23 10:02:24.145  1268  1740 D FreecessController: FZ : net.metaquotes.metatrader5(10016)
+07-23 10:02:24.145  1268  1740 D FreecessController: FZ : net.metaquotes.metatrader5(0), reason: LEV
+07-23 10:02:24.147  1268  3430 I PowerManagerService: [PWL] SetWakeLockEnableDisable uid = 10619 , disable= true
+07-23 10:02:24.147  1268  3430 I PowerManagerService: [PWL] can not change uid =  10619
+07-23 10:02:24.147  1268  3430 W LocationManagerService: onFreezeStateChanged, uid[10619]=true
+07-23 10:02:24.561  1268  5169 E AppOps  : Bad call made by uid 10232. Package "com.google.android.gms" does not belong to uid 10655.
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: Failed to get service from broker. 
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3045)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3029)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3012)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:2954)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at bjvt.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):36)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at bjtp.y(:com.google.android.gms@262634029@26.26.34 (190400-945364269):144)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at bizr.run(:com.google.android.gms@262634029@26.26.34 (190400-945364269):42)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at dbjk.mX(:com.google.android.gms@262634029@26.26.34 (190400-945364269):1)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at dbjk.dispatchMessage(:com.google.android.gms@262634029@26.26.34 (190400-945364269):5)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:02:24.564  8763  8984 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+07-23 10:02:24.565  8763  8984 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+07-23 10:02:24.945  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201665] accel_sample [ 0.172, -0.042,  9.673] 527391064976026
+07-23 10:02:24.976  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:24.976  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:24.976  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:25.052  1009  1009 I android.hardware.health@2.1-service-samsung: updateLrpSysfs: write: 360
+07-23 10:02:25.150   737  8463 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+07-23 10:02:25.554   706   706 D io_stats: !@   8,0 r 46588204 813047056 w 17479873 245988676 d 7920841 200572088 f 0 0 iot 11125828 0 th 0 0 0 pt 0 inp 0 0 433904.319
+07-23 10:02:25.858 26919 26919 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+07-23 10:02:25.977  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:25.977  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:25.977  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:26.181  3545  3545 I BCL@MainUi: (FlexCapsuleWindow) onDestroy
+07-23 10:02:26.181  3545  3545 I BCL@MainUi: (CapsuleRendererView) onDestroy
+07-23 10:02:26.181  3545  3545 I BCL@MainUi: (CapsuleRendererView) dispose DialogViewCompositeDisposable
+07-23 10:02:26.182  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.182  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.182  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.182  3545  3545 I BCL@MainUi: (CapsuleUseCase) clearPendingCommand
+07-23 10:02:26.182  3545  3545 I BCL@MainUi: (RendererUseCase) clearPendingCommand
+07-23 10:02:26.182  3545  3545 I BCL@CoreSvc: (UiEventHandler) onUiDestroy()
+07-23 10:02:26.182  3545  3545 I BCL@CoreSvc: (UiEventHandler) setPromptState: false
+07-23 10:02:26.183  3545  3545 I BCL@MainUi: (WebViewWrapper) /RENDERER/setWebViewState: DESTROYED
+07-23 10:02:26.183  3545  3545 W BCL@CoreSvc: (AudioPlayerListener) AudioPlayerListener.stop() will be ignored
+07-23 10:02:26.183  3545  3545 I BCL@MainUi: (TtsUseCase) releaseAudioFocus
+07-23 10:02:26.183  3545  3545 I BCL@CoreSvc: (AudioRecorder) getState : NOT_INITIALIZED:166376169
+07-23 10:02:26.183  3545  3545 I BCL@CoreSvc: (AudioRecorder) getState : NOT_INITIALIZED:166376169
+07-23 10:02:26.183  3545  3545 I BCL@CoreSvc: (AudioFocusWrapper) audio focus release...
+07-23 10:02:26.184  3545  3545 I AudioFocusHolder: Ph_release audiofocus : Lk.b@e3d859d [main] 
+07-23 10:02:26.184  3545  3545 I BCL@CoreSvc: (MediaStateManager) core audio focus changed : false
+07-23 10:02:26.184  3545  3545 I BCL@CoreSvc: (MediaStateManager) update() +
+07-23 10:02:26.184  3545  3545 I BCL@CoreSvc: (MediaStateManager) update() - skip : media controller is null
+07-23 10:02:26.184  3545  3545 I BCL@MainUi: (FlexCapsuleWindowController) clearFlexCapsuleWindow
+07-23 10:02:26.185  3545  3545 I BCL@MainUi: (ConversationTimeoutManager_FlexCapsuleWindowController) clearTimeout
+07-23 10:02:26.185  3545  3545 I BCL@MainUi: (ConversationTimeoutManager_FlexCapsuleWindowController) Default mode set : false
+07-23 10:02:26.185  3545  3795 I AudioManagerWrapper: Ph_abandonAudioFocus : true, remain : 0 [PhAMWrapper] 
+07-23 10:02:26.185  3545  3545 I BCL@MainUi: (QuickCommandUseCase) getQuickCommandUiState : NONE
+07-23 10:02:26.185  3545  3545 I BCL@MainUi: (FlexCapsuleWindowController) handleQuickCommandState():  NONE
+07-23 10:02:26.185  3545  3545 I BCL@MainUi: (BixbyUiStateController) ViewController is still alive: 1
+07-23 10:02:26.185  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.185  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.185  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.185  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.186  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.186  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.186  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.186  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.187  3545  3545 I BCL@MainUi: (BixbyWindow) [FlexCapsuleWindow:37134535] onDestroy
+07-23 10:02:26.187  3545  3545 I BCL@MainUi: (BixbyWindowManager) destroyWindow :FlexCapsuleWindow
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (ConversationWindowController) clearWindow
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (BixbyUiStateController) setCurrentState posted - new state: NONE, current state: PREPARE
+07-23 10:02:26.189  3545  3545 I BCL@CoreSvc: (PerformStateObserver) isRunningState  : false
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (BixbyUiStateController) unbindCesService()
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (BixbyUiStateController) notifyCesServiceUnbound()
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (FlexCapsuleWindowController) onCesServiceUnbound
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (UiEventBus) Unsubscribe(2) cd.a@56780c2
+07-23 10:02:26.189  3545  3545 I BCL@MainUi: (UiEventBus) Unsubscribe(1) cd.a@e591ed3
+07-23 10:02:26.190  3545  3545 I BCL@MainUi: (UiEventBus) Unsubscribe(0) Sb.a@d889a10
+07-23 10:02:26.190  3545  3545 I BCL@MainUi: (CapsuleUseCase) onInitPage
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.190  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCapsuleListener is triggered
+07-23 10:02:26.192  3545  3545 I BCL@MainUi: (CesService) unbind
+07-23 10:02:26.201  3545  3545 I BCL@CoreSvc: (BixbyCoreService) unregisterCoreListener is triggered
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (UiEventBus) Clear : 0
+07-23 10:02:26.201  3545  3545 I BCL@Common: (CommonEventBus) remove subscription for Ra.c@69fa2f8
+07-23 10:02:26.201  3545  3786 I BCL@MainUi: (ActivityWatcher) Unregister usageStatsWatcher
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (BixbyWindow) [ConversationWindow:66917738] onDestroy
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (BixbyWindowManager) destroyWindow :ConversationWindow
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (BixbyUiStateController) processState: start with NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (FlexCapsuleWindowController) setState() start : NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (FlexCapsuleWindowController) setState() end : NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (ConversationWindowController) setState(): start NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (ConversationWindowController) setState(): end NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (FlexMessageWindowController) setState(): start NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (FlexMessageWindowController) setState(): end NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (TypingCommandWindowController) setState() start : NONE
+07-23 10:02:26.201  3545  3545 I BCL@MainUi: (TypingCommandWindowController) setState() end : NONE
+07-23 10:02:26.201  3545  3545 I BCL@Vendor: (SecPropertyService) isSemAvailable: true
+07-23 10:02:26.202  3545  3545 E BCL@Vendor: (SecConfigurationService) NewDeX is not supported in version below OneUI 6.0(U OS)
+07-23 10:02:26.202  3545  3545 E BCL@Vendor: (SecConfigurationService) DeX(Classic or New) is NOT connected
+07-23 10:02:26.202  3545  3545 I BCL@MainUi: (CoverWindowController) setState(): start NONE
+07-23 10:02:26.202  3545  3545 I BCL@MainUi: (CoverWindowController) setState(): end NONE
+07-23 10:02:26.202  3545  3545 I BCL@MainUi: (WakeupLessCommandWindowController) setState() start : NONE
+07-23 10:02:26.202  3545  3545 I BCL@MainUi: (WakeupLessCommandWindowController) setState() end : NONE
+07-23 10:02:26.202  3545  3545 I BCL@MainUi: (BixbyUiStateController) processState: end with NONE
+07-23 10:02:26.202  3545  3545 I BCL@CoreSvc: (BixbyCoreService) onDestroy()
+07-23 10:02:26.202  3545  3545 I BCL@CoreSvc: (CoreService) performance destroy()
+07-23 10:02:26.202  3545  3545 I BCL@CoreSvc: (ConversationInfo) isOnline: true
+07-23 10:02:26.203  3545  3545 I BCL@CoreSvc: (BixbyEventBus) publish event : TYPE_ONDEVICE_ASR_RESULT
+07-23 10:02:26.203  3545  3545 I BCL@CoreSvc: (BixbyEventBus) There is no subscriber about TYPE_ONDEVICE_ASR_RESULT, ignore it.
+07-23 10:02:26.203  3545  3545 I BCL@CoreSvc: (RendererLifeCycleObserver) onDestroy
+07-23 10:02:26.203  3545  7980 I BCL@CoreSvc: (MediaStateManager) clear()
+07-23 10:02:26.204  3545  3545 I BCL@CoreSvc: (EndPointBroadcastReceiver) unregisterEndPointsBroadcastReceivers
+07-23 10:02:26.204  3545  7975 I BCL@CoreSvc: (AuthenticationManager) onDestroy
+07-23 10:02:26.205  3545  3545 I BCL@CoreSvc: (PackageUpdateReceiver) unregisterEndPointsBroadcastReceivers
+07-23 10:02:26.205  3545  7975 I BCL@CoreSvc: (CloudServiceLifeCycleObserver) onDestroy()
+07-23 10:02:26.205  3545  7975 I BCL@CoreSvc: (CloudService) disconnect : q1{delegate=j1{logId=1, target=prd-apne2-user.aibixby.com:443}}
+07-23 10:02:26.205  3545  7975 I BCL@CoreSvc: (CloudService) unregisterDefaultNetworkCallback()
+07-23 10:02:26.206  1268  2250 D ConnectivityService:  Removing from current network [213 WIFI], leaving 255 requests.
+07-23 10:02:26.208  3545  9424 I BCL@CoreSvc: (RendererLifeCycleObserver) run - renderer update check [START]
+07-23 10:02:26.208  3545  9424 I BCL@CoreSvc: (Renderer) updateRendererContent
+07-23 10:02:26.208  3545  9424 I BCL@CoreSvc: (Renderer) get
+07-23 10:02:26.208  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) checkManifest
+07-23 10:02:26.208  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Read local Manifest file.
+07-23 10:02:26.208  3545  3545 I BCL@CoreSvc: (SessionAlarmTimer) clear()
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (ServerTimeoutChecker) cancel, clear all timer
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (SettingsDataManagerObserver) dispose
+07-23 10:02:26.209  3545  3545 I BCL@Common: (LocationService) release()
+07-23 10:02:26.209  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) shouldRefreshManifestFile
+07-23 10:02:26.209  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Successfully validated the local copy of renderer manifest file
+07-23 10:02:26.209  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) shouldRefreshRendererFiles
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (UnlockReceiver) unregisterUnlockReceiver() : false
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (OkHttpClientWrapper) uninit
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (TtsHandler) shutdown
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (TtsService) uninit 264848123
+07-23 10:02:26.209  3545  3545 W BCL@CoreSvc: (BixbyHistory) Clear history!!!
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (RefreshIntentExecutor) onDestroy
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (SmartAssistDelegatorImpl) onDestroy..
+07-23 10:02:26.209  3545  7975 I BCL@CoreSvc: (SpeechControl) deInit
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (NlEpdWrapperManager) onDestroy
+07-23 10:02:26.209  3545  7975 I BCL@CoreSvc: (AudioRecorder) getState : NOT_INITIALIZED:166376169
+07-23 10:02:26.209  3545  7975 I BCL@CoreSvc: (AudioBuffer) releaseRecorder
+07-23 10:02:26.209  3545  3545 I BCL@CoreSvc: (EventQueueServiceImpl) clearAll
+07-23 10:02:26.209  3545  7975 I BCL@CoreSvc: (AudioRecorder) release 166376169
+07-23 10:02:26.210  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Files:
+07-23 10:02:26.210  3545  9424 I BCL@CoreSvc: [vendors~widgets.6ea82b71792cd8b328cf.js, index.7839647415821e0ff0a3.html, vendors~actions.859f6223b27e3d668c6a.css, uiBundle.58e8daf8f342ed208b6e.css, frame.3572eeaf8cd6b1e30ff5.html, vendors~maps.b15ce3b8281e2359f8d7.js, vendors~widgets.5f8bbc0bde52eae922ff.css, uiBundle.f62266428be6b62945fa.js, localeData.en-GB.28f1213f9de328a8a97d.js]
+07-23 10:02:26.210  3545  9424 I BCL@CoreSvc: exists
+07-23 10:02:26.210  3545  7975 I BCL@CoreSvc: (ConversationInfo) setOnline: true
+07-23 10:02:26.210  3545  7975 I OpusJni : The parameters in jni are 16000 24000 1 10 
+07-23 10:02:26.210  3545  7975 I OpusJni : The size of encoder pointer is 8
+07-23 10:02:26.210  3545  7975 I OpusJni : The frame size of samples per channel is 320
+07-23 10:02:26.210  3545  7975 I OpusJni : Returning encoder pointer as -5476376618357657936
+07-23 10:02:26.210  3545  7975 I BCL@CoreSvc: (AsrRequestDelegator) reset currentAsrRequestExecutor: T9.c@d3294a5
+07-23 10:02:26.210  3545  7975 I BCL@CoreSvc: (AsrRequestExecutor) release : true
+07-23 10:02:26.210  3545  7975 W BCL@CoreSvc: (AudioCodecOpus) Already uninitialized
+07-23 10:02:26.210  3545  7975 I BTProfileHelper: Ph_unregister Ad.d@cc2b3d8 [CoreService] 
+07-23 10:02:26.210  3545  7975 I BTProfileHelper: Ph_remove EventListener [CoreService] 
+07-23 10:02:26.210  3545  3545 I BCL@CoreSvc: (AccessTokenExtensionReceiver) onReceive() class com.samsung.android.bixby.receiver.token.LazyBootCompleteReceiver
+07-23 10:02:26.211  3545  7982 I BCL@CoreSvc: (AccessTokenExtensionReceiver) token expire time : 2026-07-24 08:05:58 [1784869558584] 
+07-23 10:02:26.212  3545  7982 I BCL@CoreSvc: (AccessTokenExtensionReceiver) current time : 2026-07-23 10:02:26 [1784790146211] 
+07-23 10:02:26.214  3545  7982 I BCL@CoreSvc: (AccessTokenExtensionReceiver) setAlarm after: 2026-07-24 07:15:58 [1784866558584]
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Successfully validated file existence, pref existence, and SHA256 hash of all renderer files.
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Should update renderer content? false
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Local copy? true
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (ManifestUpdateConditionOfTtl) renderer needUpdate time = 13213128 (ms)
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (BixbyRendererManifest) Should update? false
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (Renderer) Not going to update content
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: (Renderer) Got content! Manifest:
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: {"main":"index.076be2a35dfdf96b6b7c.html","meta":{"version":"0.0.1657-3","commitHash":"15d007a72f95da02030ec271faff0ba608292389","timestamp":"2025-09-17T21:49:21.700Z"},"files":{"devices":{"default":{"index.html":"index.076be2a35dfdf96b6b7c.html","uiBundle.css":"uiBundle.81949c0151b1f0597584.css","uiBundle.js":"uiBundle.f2b1b07f332fe78afc53.js","vendors~actions.css":"vendors~actions.b360d80e97093327b030.css","vendors~actions.js":"vendors~actions.2e44b733b314706e7bd8.js","vendors~lottie.js":"vendors~lottie.f49eb4fa724a96b06258.js","vendors~maps.js":"vendors~maps.9ce033ba44573b695789.js","vendors~widgets.css":"vendors~widgets.b0b8fc24b1a60c41310a.css","vendors~widgets.js":"vendors~widgets.4fb3660b8b2575695834.js"},"bixby-mobile":{"index.html":"index.7839647415821e0ff0a3.html","frame.html":"frame.3572eeaf8cd6b1e30ff5.html","uiBundle.css":"uiBundle.58e8daf8f342ed208b6e.css","uiBundle.js":"uiBundle.f62266428be6b62945fa.js","vendors~actions.css":"vendors~actions.859f6223b27e3d668c6a.css","vendors~actions.js":"vendors~actions.ac830bc2d9431d940068.js","vendors~lottie.js":"vendors~lottie.f49eb4fa724a96b06258.js","vendors~maps.js":"vendors~maps.b15ce3b8281e2359f8d7.js","vendors~widgets.css":"vendors~widgets.5f8bbc0bde52eae922ff.css","vendors~widgets.js":"vendors~widgets.6ea82b71792cd8b328cf.js"},"bixby-watch":{"index.html":"index.da7d5f33329dac81b75d.html","uiBundle.css":"uiBundle.06ec249d17f9d0b5ef28.css","uiBundle.js":"uiBundle.c15544d9b870c154770e.js","vendors~actions.css":"vendors~actions.9778a8f6e6926eacf70a.css","vendors~actions.js":"vendors~actions.79773beac09d00cc15e4.js","vendors~lottie.js":"vendors~lottie.f49eb4fa724a96b06258.js","vendors~maps.js":"vendors~maps.b15ce3b8281e2359f8d7.js","vendors~widgets.css":"vendors~widgets.5f8bbc0bde52eae922ff.css","vendors~widgets.js":"vendors~widgets.cc03316109b4953b1a37.js"},"bixby-tv":{"index.html":"index.8373c6d63421b4cc4fa6.html","uiBundle.css":"uiBundle.10c5420d73860f8dbe3f.css","uiBundle.js":"uiBundle.c9b28a4609ab881b4ced.js","vendors~ac
+07-23 10:02:26.225  3545  9424 I BCL@CoreSvc: tions.css":"vendors~actions.61de848cf6ed89ac2d02.css","vendors~actions.js":"vendors~actions.7ba95c7dd66ad549e057.js","vendors~lottie.js":"vendors~lottie.f49eb4fa724a96b06258.js","vendors~maps.js":"vendors~maps.9ce033ba44573b695789.js","vendors~widgets.css":"vendors~widgets.9aa46ff4f254d0712406.css","vendors~widgets.js":"vendors~widgets.ce1ad0ddd884ebc02674.js"}},"locales":{"en-US":"localeData.en-US.4ef782ae7410c6c60a92.js","ko-KR":"localeData.ko-KR.626c6dd27970dee01196.js","zh-CN":"localeData.zh-CN.bf49ec16920dee696b38.js","fr-FR":"localeData.fr-FR.391b387fb19647787c97.js","it-IT":"localeData.it-IT.1a71808a2c6b29daf002.js","de-DE":"localeData.de-DE.e820632ce84eb22a9dd5.js","es-ES":"localeData.es-ES.bb91aded6b3ee02fadab.js","es-MX":"localeData.es-MX.13bb27d3c9797e1dcca9.js","en-GB":"localeData.en-GB.28f1213f9de328a8a97d.js","pt-BR":"localeData.pt-BR.f3654e79e9dbf94323eb.js","ja-JP":"localeData.ja-JP.16a5927254fe9a3b7957.js","default":"localeData.en-US.4ef782ae7410c6c60a92.js"}}}
+07-23 10:02:26.226  3545  9424 I BCL@CoreSvc: (RendererLifeCycleObserver) run - renderer update check [END]
+07-23 10:02:26.410 31281 31894 I .gms.persistent: Explicit concurrent copying GC freed 2838KB AllocSpace bytes, 14(408KB) LOS objects, 24% free, 9949KB/12MB, paused 210us,130us total 164.657ms
+07-23 10:02:26.979  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:26.980  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:26.980  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:26.991  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201675] accel_sample [ 0.161, -0.038,  9.669] 527393109073369
+07-23 10:02:27.558   706   706 D io_stats: !@ 179,0 r 16306 570840 w 3659 143776 d 0 0 f 0 0 iot 260428 0 th 0 0 0 pt 0 inp 0 0 433906.323
+07-23 10:02:27.558   706   706 D io_stats: !@   8,0 r 46588204 813047056 w 17479880 245988732 d 7920841 200572088 f 0 0 iot 11125832 0 th 0 0 0 pt 0 inp 0 0 433906.323
+07-23 10:02:27.980  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:27.981  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:27.981  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:28.305 26919 26919 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.feedback.internal.IFeedbackService dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+07-23 10:02:28.853  7102  7102 I wpa_supplicant: Heartbeat 10978
+07-23 10:02:28.981  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:28.981  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:28.981  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:29.034  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201685] accel_sample [ 0.160, -0.040,  9.663] 527395153167796
+07-23 10:02:29.168 31766 31885 I gle.android.gms: Explicit concurrent copying GC freed 882KB AllocSpace bytes, 11(284KB) LOS objects, 27% free, 5403KB/7451KB, paused 227us,101us total 100.876ms
+07-23 10:02:29.560   706   706 D io_stats: !@   8,0 r 46588207 813047068 w 17479886 245988756 d 7920841 200572088 f 0 0 iot 11125844 0 th 0 0 0 pt 0 inp 0 0 433908.325
+07-23 10:02:29.877  4539  4539 I SDHMS:LOAD: type: LoadsFreqs, value: 0:0:0:862848:1747200:0:731520:1766400:0:305:305:0
+07-23 10:02:29.982  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:29.982  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:29.982  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:30.984  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:30.985  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:30.985  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:31.080  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201695] accel_sample [ 0.159, -0.044,  9.664] 527397197258578
+07-23 10:02:31.561   706   706 D io_stats: !@   8,0 r 46588207 813047068 w 17479898 245988812 d 7920841 200572088 f 0 0 iot 11125848 0 th 0 0 0 pt 0 inp 0 0 433910.327
+07-23 10:02:31.751  4539  5658 I SDHMS:D : SIOP:: AP:357 BAT:339 USB:341 CHG:338 PA:-777 CP:341 WIFI:361 CF:348 BLK:0 SUBBAT:0 SKIN:357 SKINF:-777 SKINB:-777 LRP:357 LRF:-777 LRB:-777 BLRF:356 BLRB:357 APT:-777 APR:-777 ANT0:-777 
+07-23 10:02:31.751  4539  5658 I SDHMS:D : MODEMQ:: 
+07-23 10:02:31.755  1268  1268 D SemWifiP2pGoPowerSave: GopsReceiver : received : com.samsung.intent.action.CHECK_SIOP_LEVEL
+07-23 10:02:31.756  1268  1268 I SemWifiP2pGoPowerSave: siop_level = -1
+07-23 10:02:31.756  1013  1013 I sensors-hal: set_config:67, sample_period_ns is adjusted to 0 based on min/max delay_ns
+07-23 10:02:31.756  1013  1013 I sensors-hal: batch:363, android.sensor.light/51, period=200000000, max_latency=0 request completed
+07-23 10:02:31.757  1013  1013 I sensors-hal: activate:279, android.sensor.light/51 en=1
+07-23 10:02:31.757  1013  1013 I sensors-hal: get_qmi_debug_flag:241, support_qmi_debug : false
+07-23 10:02:31.760 14901 14929 I SystemBroadcastReceiver: [#CMH#] onReceive completed :  0
+07-23 10:02:31.760 25336 25360 I SystemBroadcastReceiver: [#CMH#] onReceive completed :  0
+07-23 10:02:31.761 25336 25336 I PolicyManager: [#CMH#] onReceive action = EVENT_SIOP
+07-23 10:02:31.761 14901 14901 I PolicyManager: [#CMH#] onReceive action = EVENT_SIOP
+07-23 10:02:31.770  1013  1013 I sensors-hal: activate:297, android.sensor.light/51 en=1 completed
+07-23 10:02:31.773  1013  1013 D SensorsFlicker: Als_common::setDelay, handle : 1 time : 10000000ns
+07-23 10:02:31.774  1013  1013 D SensorsFlicker: Als_common::enable, handle : 1, mode : 1, en : 1
+07-23 10:02:31.774  1013  1013 D SensorsFlicker: Als_common::sendCommand, send enable command
+07-23 10:02:31.792  1268  4623 D SemContextService: lock : registerCallback
+07-23 10:02:31.792  1268  4623 W CAE     : registerCallback(ContextAwareService.java:192) - [regi 01] Mutex is locked for TEST_FLAT_MOTION
+07-23 10:02:31.792  1268  4623 W CAE     : registerCallback(ContextAwareService.java:199) - [regi 04]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:31.792  1268  4623 W CAE     : getListener(ListenerListManager.java:127) - [getListener1]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:31.792  1268  4623 W CAE     : getListener(ListenerListManager.java:128) - [getListener2]  com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba
+07-23 10:02:31.793  1268  4623 V CAE     : start(ContextProvider.java:128)
+07-23 10:02:31.793  1268  4623 V CAE     : clear(TestFlatMotionRunner.java:126)
+07-23 10:02:31.793  1268  4623 V CAE     : enable(TestFlatMotionRunner.java:102)
+07-23 10:02:31.793  1268  2185 D SensorService: setSContextDataLocked ints length 2 , byte length 4
+07-23 10:02:31.794  1268  2185 D SensorService: setSContextDataLocked 17b1
+07-23 10:02:31.794  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:31.794  1013  1013 I sensors-hal: sendContextData:286, sensor hal 4, (0xb1, 0x17, 0x0, 0x0)
+07-23 10:02:31.794  1013  1013 I sensors-hal: sendContextData:344, enable:177, handle:8, algo:16777216
+07-23 10:02:31.795  1013  1013 E sensors-hal: is_restrict_mode:142, fread fail
+07-23 10:02:31.795  1013  1013 I sensors-hal: sendContextData:107, device_position 4
+07-23 10:02:31.795  1013  1013 I sensors-hal: get_qmi_debug_flag:241, support_qmi_debug : false
+07-23 10:02:31.796  1013  9426 I sensors-hal: handle_indication_realtime:466,  SCHED_FIFO(10) for qmi_cbk
+07-23 10:02:31.796  1013  9426 I sensors-hal: handle_sns_std_sensor_event:131, [SSC_LIGHT] A: 6(6),m:0,c:0,b:0,ch:0,r:0,bl:0,16:0
+07-23 10:02:31.804  1013  1013 I sensors-hal: create_sensor_config_request:47, device_position create_sensor_config_request
+07-23 10:02:31.805  1268  4623 D CAE     : getFaultDetectionResult(TestFlatMotionRunner.java:139) - true
+07-23 10:02:31.805  1268  4623 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:627) - CheckResult = 0, Cause = Success
+07-23 10:02:31.807  1268  4623 D CAE     : doCommendProcess(ContextAwareService.java:400) - complete notify the operation result.
+07-23 10:02:31.807  1268  4623 I CAE     : displayUsedCountForService(ContextAwareService.java:464) - totalCnt = 1, serviceCount = 1, subCollectionCount = 0
+07-23 10:02:31.807  1268  4623 D CAE     : showListenerList(ContextAwareService.java:329) - ===== Context Aware Service List =====
+07-23 10:02:31.808  1268  4623 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : ACTIVITY_TRACKER_BATCH(1)
+07-23 10:02:31.808  1268  4623 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : FREE_FALL_DETECTION(1)
+07-23 10:02:31.808  1268  4623 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : TEST_FLAT_MOTION(1)
+07-23 10:02:31.808  1268  4623 W CAE     : registerCallback(ContextAwareService.java:213) - [regi 02] Mutex is unlocked for TEST_FLAT_MOTION
+07-23 10:02:31.808  1268  4623 E SemContext.CaeProvider: setAttribute() : attribute is null!
+07-23 10:02:31.808  1268  4623 D SemContextService: 	.registerCallback : 3, client= com.sec.android.sdhms
+07-23 10:02:31.808  1268  4623 D SemContextConnectionList: client packageName : com.sec.android.sdhms
+07-23 10:02:31.808  1268  4623 D SemContextService: unlock : registerCallback
+07-23 10:02:31.809  1268  4623 E SensorService: BigData:Pakage) 5 already enabled. 
+07-23 10:02:31.846  1268  4624 D SensorService: Calling activate off 33554433
+07-23 10:02:31.846  1013  1013 D SensorsFlicker: Als_common::setDelay, handle : 1 time : 10000000ns
+07-23 10:02:31.847  1268  4622 D SensorService: Calling activate off 33554433
+07-23 10:02:31.847  1013  1013 D SensorsFlicker: Als_common::enable, handle : 1, mode : 1, en : 0
+07-23 10:02:31.847  1013  1013 D SensorsFlicker: Als_common::sendCommand, send disable command
+07-23 10:02:31.851  1268  4623 W ProcessStats: Tracking association SourceState{c457757 com.google.android.gms/10232 BTopFgs #2948375} whose proc state 2 is better than process ProcessState{95c01f6 com.samsung.android.carkey/10097 pkg=com.samsung.android.carkey} proc state 3 (619 skipped)
+07-23 10:02:31.957  1013  9426 I sensors-hal: handle_sns_std_sensor_event:131, [SSC_LIGHT] A: 5(5),m:0,c:0,b:0,ch:0,r:0,bl:0,16:0
+07-23 10:02:31.959  1268  4623 D SensorService: Calling activate off 51
+07-23 10:02:31.960  1013  1013 I sensors-hal: set_config:67, sample_period_ns is adjusted to 0 based on min/max delay_ns
+07-23 10:02:31.960  1013  1013 I sensors-hal: batch:363, android.sensor.light/51, period=200000000, max_latency=0 request completed
+07-23 10:02:31.961  1268  5128 E SensorService: BigData:Pakage) 5 already disabled. 
+07-23 10:02:31.962  1268  5128 D SensorService: Calling activate off 51
+07-23 10:02:31.963  1013  1013 I sensors-hal: activate:279, android.sensor.light/51 en=0
+07-23 10:02:31.964  1013  1013 I sensors-hal: deactivate:371, disconnect qmi to disable sensor
+07-23 10:02:31.964  1013  1013 I sensors-hal: activate:297, android.sensor.light/51 en=0 completed
+07-23 10:02:31.985  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:31.985  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:31.985  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:32.100  1013  9430 I sensors-hal: handle_sns_client_event:77, device_position_event: msgid:1025
+07-23 10:02:32.101  1013  9430 I sensors-hal: handle_sns_client_event:96, device_position_event: 1
+07-23 10:02:32.106  1268  2185 D SensorService: setSContextDataLocked ints length 3 , byte length 5
+07-23 10:02:32.106  1268  2185 D SensorService: setSContextDataLocked 2070ec1
+07-23 10:02:32.107  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:32.107  1013  1013 I sensors-hal: sendContextData:286, sensor hal 5, (0xc1, 0xe, 0x7, 0x2)
+07-23 10:02:32.107  1013  1013 I sensors-hal: sendContextData:229, activities 5 c1
+07-23 10:02:32.107  1013  1013 I sensors-hal: sendUserData:246, Activities cmd 0xc1 0xe
+07-23 10:02:32.107  1013  1013 I sensors-hal: sendUserData:260, Activities system time h 7 m 2 s 32
+07-23 10:02:32.107  1013  1013 I sensors-hal: create_send_context_data:79, sending create_send_context_data
+07-23 10:02:32.107  1013  1013 I sensors-hal: send_context_data:632, activities, 4914309220830019584, 1320970896291267344, msgid:700
+07-23 10:02:32.108  1013  1013 I sensors-hal: sendContextData:94, common_info 5
+07-23 10:02:32.108  1013  1013 I sensors-hal: sendUserData:117, CommonInfo 0xc1 0xe 0x7 0x2
+07-23 10:02:32.108  1013  1013 I sensors-hal: create_send_context_data:67, sending create_send_context_data
+07-23 10:02:32.108  1013  1013 I sensors-hal: send_context_data:632, common_info, 4914309147815575552, 1320970896291267344, msgid:700
+07-23 10:02:32.110  1268  2177 D CAE     : onGetSensorHubData(SensorHubParserProvider.java:89) - onGetSensorHubData Event [event buffer len :4], AP_SLEEP
+07-23 10:02:32.111  1268  2177 I CAE     : parse(SensorHubParserProvider.java:190) - buffer size = 4
+07-23 10:02:32.111  1268  2177 I CAE     : parse(SensorHubParserProvider.java:201) - 1, 1, 23, 1,
+07-23 10:02:32.111  1268  2177 D CAE     : display(ContextProvider.java:375) - ================= TEST_FLAT_MOTION =================
+07-23 10:02:32.112  1268  2177 I CAE     : display(ContextProvider.java:391) - Action=[1]
+07-23 10:02:32.113  1268  2174 D SemContextService: Service.updateContext() : service = Device Position
+07-23 10:02:32.115  1268  5128 D SemContextService: lock : unregisterCallback
+07-23 10:02:32.115  1268  5128 D SemContextService: Service.removeListenerLocked() : listener = com.samsung.android.hardware.context.SemContextService$Listener@d053714, service = Device Position, used = 0
+07-23 10:02:32.115  1268  5128 W CAE     : unregisterCallback(ContextAwareService.java:234) - [unregi 01] Mutex is locked for TEST_FLAT_MOTION
+07-23 10:02:32.116  1268  5128 W CAE     : getListener(ListenerListManager.java:127) - [getListener1]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@47e9f6b
+07-23 10:02:32.116  1268  5128 W CAE     : getListener(ListenerListManager.java:128) - [getListener2]  com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba
+07-23 10:02:32.116  1268  5128 V CAE     : stop(ContextProvider.java:155)
+07-23 10:02:32.117  1268  5128 V CAE     : clear(TestFlatMotionRunner.java:126)
+07-23 10:02:32.118  1268  5128 V CAE     : disable(TestFlatMotionRunner.java:115)
+07-23 10:02:32.118  1268  2185 D SensorService: setSContextDataLocked ints length 2 , byte length 4
+07-23 10:02:32.118  1268  2185 D SensorService: setSContextDataLocked 17b2
+07-23 10:02:32.118  1013  1013 I sensors-hal: inject_sensor_data:407, handle 1501 send inject
+07-23 10:02:32.118  1013  1013 I sensors-hal: sendContextData:286, sensor hal 4, (0xb2, 0x17, 0x0, 0x0)
+07-23 10:02:32.118  1013  1013 I sensors-hal: sendContextData:344, enable:178, handle:8, algo:16777472
+07-23 10:02:32.118  1013  1013 I sensors-hal: sendContextData:107, device_position 4
+07-23 10:02:32.120  1013  1013 I sensors-hal: deactivate:371, disconnect qmi to disable sensor
+07-23 10:02:32.120  1268  5128 D CAE     : getFaultDetectionResult(TestFlatMotionRunner.java:139) - true
+07-23 10:02:32.121  1268  5128 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:627) - CheckResult = 0, Cause = Success
+07-23 10:02:32.121  1268  5128 D CAE     : doCommendProcess(ContextAwareService.java:400) - complete notify the operation result.
+07-23 10:02:32.122  1268  5128 I CAE     : displayUsedCountForService(ContextAwareService.java:464) - totalCnt = 0, serviceCount = 0, subCollectionCount = 0
+07-23 10:02:32.122  1268  5128 D CAE     : showListenerList(ContextAwareService.java:329) - ===== Context Aware Service List =====
+07-23 10:02:32.122  1268  5128 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : ACTIVITY_TRACKER_BATCH(1)
+07-23 10:02:32.122  1268  5128 I CAE     : showListenerList(ContextAwareService.java:338) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@d16c4ba, Service : FREE_FALL_DETECTION(1)
+07-23 10:02:32.123  1268  5128 W CAE     : unregisterCallback(ContextAwareService.java:255) - [unregi 02] Mutex is unlocked for TEST_FLAT_MOTION
+07-23 10:02:32.123  1268  5128 D SemContextService: 	.unregisterCallback : 3, client= com.sec.android.sdhms
+07-23 10:02:32.123  1268  5128 D SemContextService: unlock : unregisterCallback
+07-23 10:02:32.498   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:32.498   653   672 D OPS_SERVICE: set_display_clock_vote 1
+07-23 10:02:32.501   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:32.501   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:32.503   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:32.503   653   672 D OPS_SERVICE: set_display_clock_vote 0
+07-23 10:02:32.504   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:32.504   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:32.987  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:32.987  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:32.987  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:33.122  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201705] accel_sample [ 0.165, -0.042,  9.660] 527399241345349
+07-23 10:02:33.765  1268  4622 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 0
+07-23 10:02:33.765  1268  4623 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 150
+07-23 10:02:33.765  1268  4623 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:33.765  1268  4622 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:02:33.765 14901 14940 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:33.765 25336 25364 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:02:33.987  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:33.988  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:33.988  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:34.988  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:34.988  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:34.988  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:35.088  1009  1009 I android.hardware.health@2.1-service-samsung: updateLrpSysfs: write: 357
+07-23 10:02:35.166  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201715] accel_sample [ 0.162, -0.042,  9.656] 527401285427380
+07-23 10:02:35.638  1268  2158 D AlarmManager: Deferring alarm Alarm{c60a575 type 3 origWhen 527396628 whenElapsed 527396628 com.whatsapp} due to freecess. [uid 15010316]
+07-23 10:02:35.988  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:35.988  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:35.988  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:36.989  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:36.989  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:36.989  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:37.210  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201725] accel_sample [ 0.161, -0.040,  9.659] 527403329506130
+07-23 10:02:37.565   706   706 D io_stats: !@ 179,0 r 16306 570840 w 3659 143776 d 0 0 f 0 0 iot 260428 0 th 0 0 0 pt 0 inp 0 0 433916.330
+07-23 10:02:37.991  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:37.991  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:37.991  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:38.865  7102  7102 I wpa_supplicant: Heartbeat 10979
+07-23 10:02:38.992  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:38.992  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:38.992  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:39.164  1268  1740 D MARsPolicyManager: triggerAction called!
+07-23 10:02:39.164  1268  1740 I NSLocationMonitor: getGPSUsingApps() called
+07-23 10:02:39.175  3419 20813 I NSLocationManager_FLP: getGPSUsingApps, NO_FREEZE={5013} / FREEZE={}
+07-23 10:02:39.254  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201735] accel_sample [ 0.160, -0.041,  9.662] 527405373579411
+07-23 10:02:39.566   706   706 D io_stats: !@   8,0 r 46588207 813047068 w 17479908 245988876 d 7920841 200572088 f 0 0 iot 11125852 0 th 0 0 0 pt 0 inp 0 0 433918.331
+07-23 10:02:39.992  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:39.993  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:39.993  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:40.031  4539  4539 I SDHMS:LOAD: type: LoadsFreqs, value: 0:0:0:844800:844800:844800:710400:710400:710400:305:305:305
+07-23 10:02:40.993  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:40.993  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:40.993  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:41.300  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201745] accel_sample [ 0.159, -0.037,  9.662] 527407417649776
+07-23 10:02:41.750  4539  5658 I SDHMS:D : SIOP:: AP:352 BAT:339 USB:340 CHG:335 PA:-777 CP:337 WIFI:360 CF:349 BLK:0 SUBBAT:0 SKIN:356 SKINF:-777 SKINB:-777 LRP:356 LRF:-777 LRB:-777 BLRF:354 BLRB:356 APT:-777 APR:-777 ANT0:-777 
+07-23 10:02:41.750  4539  5658 I SDHMS:D : MODEMQ:: 
+07-23 10:02:41.994  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:41.994  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:41.994  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:42.136  1268  2134 W ProcessStats: Tracking association SourceState{c457757 com.google.android.gms/10232 BTopFgs #2948425} whose proc state 2 is better than process ProcessState{95c01f6 com.samsung.android.carkey/10097 pkg=com.samsung.android.carkey} proc state 3 (399 skipped)
+07-23 10:02:42.518   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:42.518   653   672 D OPS_SERVICE: set_display_clock_vote 1
+07-23 10:02:42.521   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:42.521   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:42.527   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:02:42.527   653   672 D OPS_SERVICE: set_display_clock_vote 0
+07-23 10:02:42.528   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:02:42.528   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:02:42.551  2503  7103 D IpClient/wlan0: interfaceLinkStateChanged: ifindex 9 up
+07-23 10:02:42.995  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:42.995  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:42.995  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:43.343  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][201755] accel_sample [ 0.163, -0.039,  9.662] 527409461716494
+07-23 10:02:43.995  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,1 ,0 ,0, 7.0.0.0
+07-23 10:02:43.995  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:02:43.995  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:02:44.020  3617  3617 I adbd    : adbd service requested 'shell,v2:export ANDROID_LOG_TAGS=''; exec logcat '-d' '-t' '800''

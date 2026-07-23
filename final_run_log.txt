@@ -1,0 +1,806 @@
+--------- beginning of main
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.sponsored.asyncads.lowvaluesignals.LowValueSignalsSessionStarting end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.sponsored.asyncads.ondevicesignals.OnDeviceSignalKnotsEventListener.UserSessionStart start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.sponsored.asyncads.ondevicesignals.OnDeviceSignalKnotsEventListener.UserSessionStart end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.sponsored.asyncads.requestpathsignals.sessionlevelsignals.sessiontime.SessionTimeTrackerStarting start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.sponsored.asyncads.requestpathsignals.sessionlevelsignals.sessiontime.SessionTimeTrackerStarting end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.traffic.nts.iglib.IGTrafficNTSUserSessionStarting start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.traffic.nts.iglib.IGTrafficNTSUserSessionStarting end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.util.startup.transitions.EnableColdStartTransitionsTask start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.util.startup.transitions.EnableColdStartTransitionsTask end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.privacyflow.util.PrivacyFlowHelper start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.privacyflow.util.PrivacyFlowHelper end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.timespent.provider.QuietTimeUserSessionStart start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.timespent.provider.QuietTimeUserSessionStart end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.timespent.provider.ScreenTimeUserSessionStart start
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.wellbeing.timespent.provider.ScreenTimeUserSessionStart end
+07-23 10:27:53.191 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.zero.experiments.ZeroEarlyExperimentsUserSessionStart start
+07-23 10:27:53.192 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.igpermissions.igpermissionsutil.IGPermissionsSharedAccountsSessionStart end
+07-23 10:27:53.192 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.zero.main.IgZeroMainInitializer start
+07-23 10:27:53.192 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.zero.main.IgZeroMainInitializer end
+07-23 10:27:53.192 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.zero.main.IgZeroMainStartupLog start
+07-23 10:27:53.193 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.zero.main.IgZeroMainStartupLog end
+07-23 10:27:53.193 16288 16415 W SessionScopedProviderInitializer: Initialize X.06ed start
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize X.06ed end
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize X.0KR7 start
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize X.0KR7 end
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize X.0KRX start
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize X.0KRX end
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize com.facebook.osagecollection.appjob.IgOSAgeCollectionAppJob start
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize com.facebook.osagecollection.appjob.IgOSAgeCollectionAppJob end
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.profilo.IgProfiloSessionManager start
+07-23 10:27:53.194 16288 16415 W SessionScopedProviderInitializer: Initialize com.instagram.profilo.IgProfiloSessionManager end
+07-23 10:27:53.194 16288 16414 W SessionScopedProviderInitializer: Initialize com.instagram.zero.experiments.ZeroEarlyExperimentsUserSessionStart end
+07-23 10:27:53.197 15828 16440 W SCS@AiSearch user 0: (TransliterationPropertyHelper) There is no matched LangType with en, Will use latin as default
+07-23 10:27:53.197 15828 16440 I SCS@AiSearch user 0: (TransliterationAnalyzer) Property=TransliterationProperty{mInputLanguage='la', mOutputLanguage='la', mCategory='app', mNoNeedTransliteration='true'}
+07-23 10:27:53.197 15828 16440 I SCS@AiSearch user 0: (TransliterationAnalyzer) Does not need transliteration. Will do nothing
+07-23 10:27:53.198  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210929] accel_sample [ 0.086,  1.734,  9.547] 528919386634108
+07-23 10:27:53.199 16288 16413 W SessionScopedProviderInitializer: Initialize com.instagram.reliability.experiments.ReliabilityExperimentInitializer end
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: Could not obtain MC: Session not provided. Fix callsite to pass Session. 
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: java.lang.RuntimeException: Could not obtain MC, call-site will receive default values
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.02fW.A05(:4)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.02fW.A03(:7)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.02fW.A01(:2)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.06ey.A00(:8)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.06ey.D86(:0)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.01tw.A04(:59)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at X.01rl.A02(:28)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at com.instagram.barcelona.process.main.BarcelonaApplicationForMainProcess.A01(:82143)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at com.instagram.barcelona.process.main.BarcelonaApplicationForMainProcess.A06(:514)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at com.instagram.barcelona.app.BarcelonaAppShell.onCreate(:744)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1266)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7619)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.app.ActivityThread.-$$Nest$mhandleBindApplication(ActivityThread.java:0)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2400)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:53.199 16288 16288 W IgMetaConfig: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:53.206 15828 16440 I SCS@AiSearch user 0: (IndexManager) [UPDATE] Done indexName: com.samsung.android.apps updateList.size():1
+07-23 10:27:53.206 15828 16440 I SCS@AiSearch user 0: (IndexSearcherManager) [androidx.work-4] entering in refreshSearcherManager():  refreshSearcherManager for com.samsung.android.apps
+07-23 10:27:53.206 15828 16440 I SCS@AiSearch user 0: (IndexSearcherManager) remove: indexName: com.samsung.android.apps
+07-23 10:27:53.217 16288 16288 W IgZoneModule: IgFury is disabled. No-op Zone is setup
+07-23 10:27:53.221 16214 16510 I Finsky:background: [13960] CronetEngine is present. Using Cronet for the networking stack.
+07-23 10:27:53.231  2876  3174 I PackageUpdatedTask: set null app progress level to 100
+07-23 10:27:53.232 15828 16440 I SCS@AiSearch user 0: (IndexManager) getIndexWriter(): indexName com.samsung.android.apps
+07-23 10:27:53.233  2876  2876 W SuggestedAppsManager: pending predictedApps : 9
+07-23 10:27:53.236  2876  3174 I WidgetsModel: EasyModeWidget will be excluded on WidgetList.
+07-23 10:27:53.247  2876  3174 I PostPositionOperator: addItem() - com.devlab.my_subscriptions, isWidgetOnly : true
+07-23 10:27:53.248  2876  3174 W PackageUpdatedTask: refreshSearchLayout return, operation is not matched
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: updateItems : 9
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : WhatsApp, ComponentInfo{com.whatsapp/com.whatsapp.Main}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : SubTrack, ComponentInfo{com.devlab.my_subscriptions/com.devlab.my_subscriptions.MainActivity}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : Chrome, ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : TapFlow AI, ComponentInfo{com.tapflow.ai/com.tapflow.ai.MainActivity}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : Gemini, ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : WA Business, ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : SHEIN, ComponentInfo{com.zzkko/com.shein.welcome.WelcomeActivity}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : Phonexa, ComponentInfo{com.mobilestore.mobile_shop_pos/com.mobilestore.mobile_shop_pos.MainActivity}
+07-23 10:27:53.249  2876  3174 I SuggestedItemsFacade: DPS items : MetaTrader 5, ComponentInfo{net.metaquotes.metatrader5/net.metaquotes.metatrader5.ui.MainActivity}
+07-23 10:27:53.252 16214 16582 I Finsky:background: [13970] Resetting scheduler db
+07-23 10:27:53.259 16288 16288 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4912)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5329)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5299)] [X.01ur.A04(:651)] [X.01rl.A02(:28)] [com.instagram.barcelona.process.main.BarcelonaApplicationForMainProcess.A01(:82143)] [com.instagram.barcelona.process.main.BarcelonaApplicationForMainProcess.A06(:514)] [com.instagram.barcelona.app.BarcelonaAppShell.onCreate(:744)] [android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1266)] [android.app.ActivityThread.handleBindApplication(ActivityThread.java:7619)] [android.app.ActivityThread.-$$Nest$mhandleBindApplication(ActivityThread.java:0)] [android.app.ActivityThread$H.handleMessage(ActivityThread.java:2400)]
+07-23 10:27:53.261 16288 16481 W FileBasedMultiProcessTracker: <default>: Initializing FileBasedMultiProcessTracking using /data/user/0/com.instagram.barcelona/app_multiprocess_tracking
+07-23 10:27:53.261 16288 16481 W FileBasedMultiProcessTracker: <default>: Creating file to track 16288
+--------- beginning of system
+07-23 10:27:53.261  1268  2464 D CompatibilityChangeReporter: Compat change id reported: 319212206; UID 10567; state: ENABLED
+07-23 10:27:53.262 16288 16481 W FileBasedMultiProcessTracker: <default>: FileBasedMultiProcessTracker ready!
+07-23 10:27:53.263 16288 16288 W HalfnosisBarcelonaInitializer: Halfnosis is not enabled, skipping initialization.
+07-23 10:27:53.263 16288 16288 W PLogCrashRecoveryNeedInit: init: gate=true
+07-23 10:27:53.265  1268  2250 D ConnectivityService: Rematched networks [computed 0ms] [applied 1ms] [issued 3]
+07-23 10:27:53.265  1268  2250 D ConnectivityService: NetworkReassignment : no changes
+07-23 10:27:53.267 16288 16446 W DGWClientHolder: DGWClientConfig IG4A\B4A: {deviceOS:android,isWorkBuild:false,appVersion:439.0.0.43.89,appId:3419628305025917,streamIdleTimeoutMs:2700000,responseCompression:zstd,enableHTTP3:true,zeroRatingEnabled:false,zeroUrlRewritingV2Enabled:false,zeroRatingCachingEnabled:false,matchChatDHost:false,gatewayDomain:test-gateway.instagram.com,streamGroupPingPeriod:25,streamGroupPingTimeout:10,streamGroupStopBgPingDelay:300,useCachedStreamGroupsStatus:false,closeNetworkConnectionOnTimeout:true,connectivityManagerOptions:{enablePingInBackground:false,bgPingIntervalMs:260000,pingIntervalInMs:{HIGH:0,MID:0,LOW:0,DEFAULT:120000},pingTimeoutInMs:{HIGH:0,MID:0,LOW:0,DEFAULT:50000},pingLatencyInMs:{HIGH:70, MID:200},disablePingWhileNoActiveStream:true,pingTrafficTracingSamplingRate:0,initAppStateAsBackground:true,ignoreOnNetworkDisconnectedSignalForPing:true,markDisconnectedInBackground:false,enableNetworkMonitor:true,enableNetworkMonitorV2:false,extendedFgIntervalSeconds:120,useExtendedFgInterval:false,useTigon:false,useTigonInDeprecatedMNSClient:false,enableNetworkRevalidatorBridge:false},personalizationConfig:null,eagerStreamGroupEnabled:true,keepStreamGroupAliveAfterLastStream:false,enableFetchRegionHintFromWww:false,regionHintCacheTtlHours:0,matchMqttWakeup:false,enableTunnelRetriableLayer:false,useExecutorProxies:false,useExecutorProxiesPhaseTwo:false,useExecutorProxiesPhaseThree:false,fallbackConfig:null,retryableLayerConfig:{useStreamGroupsForConnectivity: true, maxRetries: 10, connectTimeoutSeconds: 10, bgTeardownDelaySeconds: 0, connectSchedulerConfig: {numberOfFastModeRetries: 2, additionalBackgroundDelayFastMode: 100, additionalDelayPerTryFastMode: 100, initialReachableDelayBackOffMode: 500, additionalBackgroundDelayBackOffMode: 300, maxDelayBackOffMode: 40000, randomizeFactorBackOffModeEnabled: true, triesOffsetBackOffMode: 0, additionalSuspendedDelayBackOffMode: 0}, closeConnectionOnNetworkInterfaceChange: true, enableEarlyFailOnSuspended: false, bufferBgRequestsAfterTeardown: false, stopPingsOnSuspended: false, serviceIdsToRetryOnSuspendedCsv: , useNetworkInterfaceLayer: false},enableEligibilityHashHeader:false,userAgent:,removeAsyncExecutorFromTunnelNetworkCallbacks:false,enableCallingSgErrorOnlyOnceInSgt:false,msysStreamGroupTransportSampleRate:0,msysStreamLifecycleSampleRate:0,enableDGWForChatd:false,useTigon:true,useTigonJava:false,useTigonInDeprecatedMNSClient:false,allowRetriableWithConnectivityAwareLayer:false,msysBufferRequestWhileNoConnectivity:true, disableRetriableLayer:false, disableCancellationForTigonRequests:false, tigonCloseConnectionThrottleMs:0, tigonCloseWhenNoRequests:false, tigonNoCallbacksAfterCancel:false, h2MaxRequestsPerConnection:0, mvfstUseUDPSocketConnect:false, enableLogoutOnAuthFailure:false, useTunnelExecutor:false, tunnelConnectAckDisableConnectionClosure:false, mvfstKeepAliveTimeoutSeconds:0, enableSeparateHTTPClientForTunnel:false, forceHTTP2ForTunnel:false, enableCertificateRevocation:false, certificateRevocationListJSON:, mvfstMaximumPTOs0}
+07-23 10:27:53.268 16288 16446 W DGWClientHolder: DGWMNSConfig IG4A\B4A: MNSDGWNetworkStackConfig: dnsCacheDir:/data/user/0/com.instagram.barcelona/files/android_ig_mns_dgw_dns_cache, quicEnabled:true, quicIdleTimeoutSec:30, quicKeepAliveTimeoutSec:0, quicHandshakeTimeoutSec:5, quicEgressDscp:0, quicEgressSoPriority:0, http2PingIntervalSec:260, http2MaxRequestsPerConnection:0, userAgent:Barcelona 439.0.0.43.89 Android (33/13; 450dpi; 1080x2400; samsung; SM-G986W; y2q; qcom; en_CA; 1022589756), enableQuicEarlyData:true, tcpDelayMs:0, tcpConnectTimeoutSec:5, highPriorityEvLoopThread:false, enableHttpVersionCache:false, evLoopThreadPriority:0,  useSharedEventLoop:false, useEventLoopPriority:false, eventLoopPriority:0, quicKnobs:, trustSandboxCertificates:false, quicUseMvfstMobileLibrary:false, enableQlog:false, maxQlogLines:500, mvfstUseHandshakeTimeout:false, preferIPv6ForBothTCPAndQUIC:false, closeWhenNoRequests:false,  closeConnectionThrottlingWindowMs:0, useTigon:true, useTigonInDeprecatedMNSClient:false, mvfstUseUDPSocketConnect:false, mvfstKeepAliveTimeoutSeconds:0, enableSeparateHTTPClientForTunnel:false, forceHTTP2ForTunnel:false, enableCertificateRevocation:false, certificateRevocationListJSON:, mvfstMaximumPTOs:0, enableSecureTcpEarlyData:false, fizzMobileEnabled:false, pqcEnabled:false, dnsRefreshHosts:null, dnsRefreshIntervalSeconds:0, enableProtocolFallback:false, dnsUseMultinetworkResolver:false, tigonConnectionMigrationEnabled:false, tigonConnectionMigrationAllowPortMigration:true, tigonConnectionMigrationAllowNetworkMigration:true, tigonConnectionMigrationReportToOS:true, tigonConnectionMigrationNumPtosForDegrading:0, tigonConnectionMigrationNumPtosForBlackhole:0
+07-23 10:27:53.271 16288 16288 W BackgroundStartupDetector: coldStartMode=DEFINITELY_BACKGROUND
+07-23 10:27:53.271 16288 16652 W FileBasedMultiProcessTracker: <default>: Observed removed PID: 5941
+07-23 10:27:53.271 16288 16288 W BackgroundStartupDetector: bgMode=BACKGROUND reason=COLD_START_QUEUE_DRAINED_NO_ACTIVITY
+07-23 10:27:53.275  1268  1268 W JobScheduler: Job didn't exist in JobStore: 27ae9db #u0a567/3367 com.instagram.barcelona/androidx.work.impl.background.systemjob.SystemJobService
+07-23 10:27:53.277 16288 16446 W DGW     : W[reportSoftError:24] pingTimeout: value 50000 outside valid range [4000, 30000]
+07-23 10:27:53.277 16288 16446 W soft_error.cpp: [DGWClientConfig] : pingTimeout: value 50000 outside valid range [4000, 30000] <force_oncall:mi_client_infra:force_oncall>
+07-23 10:27:53.278 16214 16461 I Finsky:background: [13955] SCH: Scheduling phonesky job Id: 3-20275, CT: 1784790135398, Constraints: [{ L: 0, D: 86400000, C: CHARGING_REQUIRED, I: IDLE_REQUIRED, N: NET_UNMETERED, B: BATTERY_ANY }]
+07-23 10:27:53.278 16214 16461 I Finsky:background: [13955] SCH: Scheduling phonesky job Id: 47-15, CT: 1784760582554, Constraints: [{ L: 19318868, D: 40918868, C: CHARGING_NONE, I: IDLE_REQUIRED, N: NET_NONE, B: BATTERY_ANY }]
+07-23 10:27:53.278 16214 16461 I Finsky:background: [13955] SCH: Scheduling phonesky job Id: 59-1, CT: 1784786573982, Constraints: [{ L: 10127444, D: 20267444, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+07-23 10:27:53.279 16288 16446 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [X.03h0.invoke(:755)] [X.03xK.invoke(:1048)] [X.04bM.getValue(:20)] [X.04bP.A01(:8)] [X.05yl.A00(:58)] [X.05xa.A00(:17)] [X.03h2.invoke(:569)] [X.03xK.invoke(:1048)] [X.04bM.getValue(:20)] [X.04bP.A01(:8)] [X.05wz.A00(:40)] [X.04nf.A01(:28)] [X.03h4.invoke(:26)] [X.04bM.getValue(:20)] [X.04Af.invoke(:308)] [X.04bM.getValue(:20)] [X.05jw.run(:4)] [X.02dz.run(:2)] [X.01od.run(:25)] [X.02eA.run(:16)] [X.01od.run(:25)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [X.01ol.run(:96)] [java.lang.Thread.run(Thread.java:1572)] [X.01om.run(:8)]
+07-23 10:27:53.288 16288 16416 W AuthDataLoader: EIMU already available, skipping load
+07-23 10:27:53.290 16288 16416 W agram.barcelona: JNI RegisterNativeMethods: attempt to register 0 native methods for com.facebook.msys.mci.EventLoggingData
+07-23 10:27:53.296 16288 16416 W msys    : Proxies already configured: null
+07-23 10:27:53.297  1268  4623 D ConnectivityService: requestNetwork for uid/pid:10567/16288 activeRequest: null callbackRequest: 47885 [NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC|LP
+07-23 10:27:53.297  1268  2250 D ConnectivityService:    accepting network in place of null for NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.300  1268  2240 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.300  1268  2240 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.300  1268  2240 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.301  1268  2240 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47886, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.301  1268  2250 D ConnectivityService: Rematched networks [computed 1ms] [applied 0ms] [issued 3]
+07-23 10:27:53.301  1268  2250 D ConnectivityService: NetworkReassignment :
+07-23 10:27:53.301  1268  2250 D ConnectivityService:   47886 : null → 213
+07-23 10:27:53.309  1268  2464 D PackageManager: setEnabledSetting : userId = 0 packageName = com.instagram.barcelona cmp = com.instagram.push.FbnsInitBroadcastReceiver newState = 1 callingPackage = 10567/com.instagram.barcelona
+07-23 10:27:53.310  1268  2464 D ApplicationPolicy: getApplicationStateEnabled : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.311  1268  2464 D ApplicationPolicy: getApplicationComponentState : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.312  1268  4623 D PackageManager: setEnabledSetting : userId = 0 packageName = com.instagram.barcelona cmp = com.facebook.rti.pushv2.inapp.InappFbnsService newState = 1 callingPackage = 10567/com.instagram.barcelona
+07-23 10:27:53.312  1268  4623 D ApplicationPolicy: getApplicationStateEnabled : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.312  1268  4623 D ApplicationPolicy: getApplicationComponentState : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.315  1268  5155 W ActivityManager: Background start not allowed: service Intent { act=Orca.START cmp=com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService (has extras) } to com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService from pid=16288 uid=10567 pkg=com.instagram.barcelona startFg?=false
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: [AI] Failed to start service due to IllegalStateException on Android O
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: android.app.BackgroundServiceStartNotAllowedException: Not allowed to start service Intent { act=Orca.START cmp=com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService (has extras) }: app is in background uid UidRecord{cd9eb4a u0a567 RCVR idle change:procstate procs:0 seq(84903072,84900467)}
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1981)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startService(ContextImpl.java:1927)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.content.ContextWrapper.startService(ContextWrapper.java:834)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03fy.ESH(:29)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03fX.A00(:11)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03eO.D1P(:397)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.06fw.onQueueIdle(:32)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03ng.queueIdle(:22)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.MessageQueue.next(MessageQueue.java:404)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Looper.loopOnce(Looper.java:186)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:53.316 16288 16288 W RtiGracefulSystemMethodHelper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:53.319  1268  5155 D PackageManager: setEnabledSetting : userId = 0 packageName = com.instagram.barcelona cmp = com.instagram.push.FbnsInitBroadcastReceiver newState = 1 callingPackage = 10567/com.instagram.barcelona
+07-23 10:27:53.320  1268  5155 D ApplicationPolicy: getApplicationStateEnabled : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.320  1268  5155 D ApplicationPolicy: getApplicationComponentState : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.322  1268  4623 D PackageManager: setEnabledSetting : userId = 0 packageName = com.instagram.barcelona cmp = com.facebook.rti.pushv2.inapp.InappFbnsService newState = 1 callingPackage = 10567/com.instagram.barcelona
+07-23 10:27:53.322  1268  4623 D ApplicationPolicy: getApplicationStateEnabled : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.322  1268  4623 D ApplicationPolicy: getApplicationComponentState : pkg = com.instagram.barcelona userId : 0
+07-23 10:27:53.324  1268  5155 W ActivityManager: Background start not allowed: service Intent { act=Orca.START cmp=com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService (has extras) } to com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService from pid=16288 uid=10567 pkg=com.instagram.barcelona startFg?=false
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: [AI] Failed to start service due to IllegalStateException on Android O
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: android.app.BackgroundServiceStartNotAllowedException: Not allowed to start service Intent { act=Orca.START cmp=com.instagram.barcelona/com.facebook.rti.pushv2.inapp.InappFbnsService (has extras) }: app is in background uid UidRecord{cd9eb4a u0a567 RCVR idle change:procstate procs:0 seq(84903072,84900467)}
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1981)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startService(ContextImpl.java:1927)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.content.ContextWrapper.startService(ContextWrapper.java:834)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03fy.ESH(:29)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03fX.A00(:11)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at X.03eO.D1P(:397)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at com.instagram.push.FbnsInitBroadcastReceiver.onReceive(:307)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$android-app-LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1919)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:2)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:53.324 16288 16288 W RtiGracefulSystemMethodHelper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:53.328 16214 16461 I Finsky:background: [13955] SCH: Scheduling 0 system job(s)
+07-23 10:27:53.338 16288 16417 W DGW     : W[setEnabled:182] StreamGroupPinger[lightspeed]: setEnabled: 0
+07-23 10:27:53.348 16214 16639 I Finsky:background: [13976] SCH: Canceling job 3-20275
+07-23 10:27:53.352  1268  1576 I SemExecuteManagerService: onShortcutChanged: com.instagram.barcelona0
+07-23 10:27:53.352 16271 16635 W FeatureFlagsImplExport: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+07-23 10:27:53.353 15828 16440 I SCS@AiSearch user 0: (IndexSearcherManager) Searcher created successfully for com.samsung.android.apps
+07-23 10:27:53.353 15828 16440 I SCS@AiSearch user 0: (IndexSearcherManager) [androidx.work-4] leaving from refreshSearcherManager():  
+07-23 10:27:53.354 15828 16440 I SCS@AiSearch user 0: (IndexManager) [androidx.work-4] leaving from updateIndex, result = true():  
+07-23 10:27:53.354 15828 16440 I SCS@AiSearch user 0: (AppsDataObserver) [androidx.work-4] leaving from execute():  result is true
+07-23 10:27:53.354 15828 16440 I SCS@AiSearch user 0: (AppsDataWorker) [androidx.work-4] leaving from doWork():  
+07-23 10:27:53.354 15828 15869 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=8dd55f78-fab7-4894-b2b0-0d1b91c28c25, tags={ com.samsung.android.scs.ai.search.scheduling.workers.AppsDataWorker, CMD_UPDATE_LIST } ]
+07-23 10:27:53.359 15828 16670 I SCS@AiSearch user 0: (IndexManager) [pool-14-thread-1] entering in commitIndexWriter():  
+07-23 10:27:53.368 16288 16437 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [X.03f3.invokeSuspend(:341)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:89)] [X.02AB.run(:2)] [X.01od.run(:25)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [X.01ol.run(:96)] [java.lang.Thread.run(Thread.java:1572)] [X.01om.run(:8)]
+07-23 10:27:53.369  1268  4623 D ConnectivityService: requestNetwork for uid/pid:10567/16288 activeRequest: null callbackRequest: 47887 [NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC
+07-23 10:27:53.370  1268  2250 D ConnectivityService:    accepting network in place of null for NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.370 16288 16418 E PendingMediaStoreSerializer: deserialize start
+07-23 10:27:53.370 16288 16418 E PendingMediaStoreSerializer: start reading pending media
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: Set the submedia on albums
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: Set the submedia on post threads
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: Set the submedia on story templates
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: Set the submedia on Basel templates
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: deserialize is done. start calling callbacks
+07-23 10:27:53.371 16288 16418 E PendingMediaStoreSerializer: deserialize end
+07-23 10:27:53.371 16288 16288 E PendingMediaStoreSerializer: wait for deserialization lock
+07-23 10:27:53.371 16288 16288 E PendingMediaStoreSerializer: calling callbacks
+07-23 10:27:53.373  1268  2240 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.373  1268  2240 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.373  1268  2240 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.374  1268  2240 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47888, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.374  1268  2250 D ConnectivityService: Rematched networks [computed 0ms] [applied 1ms] [issued 3]
+07-23 10:27:53.374  1268  2250 D ConnectivityService: NetworkReassignment :
+07-23 10:27:53.374  1268  2250 D ConnectivityService:   47888 : null → 213
+07-23 10:27:53.384 16288 16636 D CompatibilityChangeReporter: Compat change id reported: 194532703; UID 10567; state: ENABLED
+07-23 10:27:53.385  1268  4623 D CompatibilityChangeReporter: Compat change id reported: 194532703; UID 10567; state: ENABLED
+07-23 10:27:53.403 15828 16670 I SCS@AiSearch user 0: (IndexManager) [pool-14-thread-1] leaving from commitIndexWriter():  
+07-23 10:27:53.403 15828 15828 I SCS@AiSearch user 0: (SearchProvider) onTrimMemory(): 60
+07-23 10:27:53.404 16288 16636 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [X.03ZA.A00(:19)] [X.04Oz.invokeSuspend(:1658)] [X.04Oz.invoke(:19)] [X.02iD.A05(:2)] [X.02iC.A05(:56)] [X.04Ez.A00(:1788)] [X.04Ez.invokeSuspend(:9)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:89)] [X.05cl.run(:2)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+07-23 10:27:53.406  1268  4623 D ConnectivityService: requestNetwork for uid/pid:10567/16288 activeRequest: null callbackRequest: 47889 [NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC|BLK
+07-23 10:27:53.406  1268  2250 D ConnectivityService:    accepting network in place of null for NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.409  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10567
+07-23 10:27:53.410  1268  2240 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.411  1268  2240 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.412  1268  2240 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.412  1268  2240 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.413  1268  2250 D ConnectivityService: Rematched networks [computed 1ms] [applied 0ms] [issued 6]
+07-23 10:27:53.413  1268  2250 D ConnectivityService: NetworkReassignment :
+07-23 10:27:53.413  1268  2250 D ConnectivityService:   47890 : null → 213
+07-23 10:27:53.429 16214 16510 I Finsky:background: [13960] Finished reading experiment flags from file [Se-xCc4LzNyh3UrKMIU2sUf-PUKz4oQEbpKZDMuaFno] numFlags=2049.
+07-23 10:27:53.430 16214 16639 I Finsky:background: [13976] WM::SCH: Logging work end for 3-20275
+07-23 10:27:53.431 16214 16464 I Finsky:background: [13958] SCH: no pending jobs to schedule.
+07-23 10:27:53.433 16288 16646 E msys    : E[N mns:DGWClient]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:53.441 16288 16674 W MDCoreAuthoritativeStoreImpl: Race condition detected when loading auth store info from DB
+07-23 10:27:53.444 16288 16631 W MDCoreAuthoritativeStoreImpl: Race condition detected when loading auth store info from DB
+07-23 10:27:53.452 16288 16631 E MDCoreSyncManagerImpl: Unknown event type: SUBSCRIPTION_STATE_CHANGED
+07-23 10:27:53.465  1268  4623 W JobScheduler: Job didn't exist in JobStore: c537216 #u0a567/3368 com.instagram.barcelona/androidx.work.impl.background.systemjob.SystemJobService
+07-23 10:27:53.467 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading librtcmerged.so, this can be slow
+07-23 10:27:53.469 16288 16690 E MDCoreSyncManagerImpl: Unknown event type: SUBSCRIPTION_STATE_CHANGED
+07-23 10:27:53.471 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libmsysmerged.so, this can be slow
+07-23 10:27:53.471 16288 16690 E MDCoreSyncManagerImpl: Unknown event type: SUBSCRIPTION_STATE_CHANGED
+07-23 10:27:53.481 16288 16665 W DGW     : W[setEnabled:182] StreamGroupPinger[lightspeed]: setEnabled: 1
+07-23 10:27:53.489 16288 16630 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5579)] [X.03ZA.A01(:19)] [X.03yP.invoke(:145)] [X.03e2.invoke(:63)] [X.03ab.A00(:131)] [X.04Dz.invokeSuspend(:116)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:98)] [X.05cl.run(:2)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+07-23 10:27:53.490  1268  2250 D ConnectivityService:  Removing from current network [213 WIFI], leaving 255 requests.
+07-23 10:27:53.495 16288 16630 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [X.03ZA.A00(:19)] [X.04Oz.invokeSuspend(:1658)] [X.04Oz.invoke(:19)] [X.02iD.A05(:2)] [X.02iC.A05(:56)] [X.04Ez.A00(:1788)] [X.04Ez.invokeSuspend(:9)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:89)] [X.05cl.run(:2)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+07-23 10:27:53.497 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libmsysmerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.498 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libvoicemsgmerged.so, this can be slow
+07-23 10:27:53.499  1268  4623 D ConnectivityService: requestNetwork for uid/pid:10567/16288 activeRequest: null callbackRequest: 47891 [NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC|BLK
+07-23 10:27:53.499 16288 16693 E EmergencyPushPeriodicFetchWorker: Skipping fetch since app is backgrounded
+07-23 10:27:53.500  1268  2250 D ConnectivityService:    accepting network in place of null for NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.501 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libcompphotomerged.so, this can be slow
+07-23 10:27:53.502  1268  2240 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.503  1268  2240 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.503  1268  2240 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.504  1268  2240 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47892, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.505  1268  2250 D ConnectivityService: Rematched networks [computed 0ms] [applied 1ms] [issued 4]
+07-23 10:27:53.505  1268  2250 D ConnectivityService: NetworkReassignment :
+07-23 10:27:53.505  1268  2250 D ConnectivityService:   47892 : null → 213
+07-23 10:27:53.505 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libthreadsmerged.so, this can be slow
+07-23 10:27:53.516 16214 16510 I Finsky:background: [13960] Subscription detail: DataSubscriptionInfo{groupIdLevel1=FFFFFF, serviceProviderName=[pAXrp4vy5ttE6-Cyi7yc3ESfmsmQ0gKcUKFeaFPP3yA], simCarrierId=1920}
+07-23 10:27:53.519 16214 16214 I Finsky:background: [2] onSubscriptionsChanged
+07-23 10:27:53.520 16288 16619 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5579)] [X.03ZA.A01(:19)] [X.03yP.invoke(:145)] [X.03e2.invoke(:63)] [X.03ab.A00(:131)] [X.04Dz.invokeSuspend(:116)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:98)] [X.05cl.run(:2)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+07-23 10:27:53.521  1268  2250 D ConnectivityService:  Removing from current network [213 WIFI], leaving 255 requests.
+07-23 10:27:53.522 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libthreadsmerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.528 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libcompphotomerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.529 16214 16582 I Finsky:background: [13970] IQ: Creating job 20276, for (REQ_CHARGING, REQ_DEVICE_IDLE, REQ_GEARHEAD_PROJECTION_OFF, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY, AUTHENTICATION_REQUIRED, PROCESS_IMPORTANCE_THRESHOLD=125)
+07-23 10:27:53.529 16214 16510 I Finsky:background: [13960] PlayInstallAPI: Play install service listener is disabled by feature flag.
+07-23 10:27:53.529 16214 16582 I Finsky:background: [13970] IQ: Bulk scheduling created jobs
+07-23 10:27:53.529 16214 16582 I Finsky:background: [13970] SCH: Received scheduling request: Id: 3-20276, Constraints: [{ L: 0, D: 86400000, C: CHARGING_REQUIRED, I: IDLE_REQUIRED, N: NET_UNMETERED, B: BATTERY_ANY }]
+07-23 10:27:53.532 16288 16423 W System.err: SLF4J(W): No SLF4J providers were found.
+07-23 10:27:53.532 16288 16423 W System.err: SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+07-23 10:27:53.532 16288 16423 W System.err: SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+07-23 10:27:53.533 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libvoicemsgmerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.534 16288 16418 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libgraphqlmerged.so, this can be slow
+07-23 10:27:53.543 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libgraphqlmerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.546 16288 16418 D nativeloader: Load /data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/split_config.arm64_v8a.apk!/lib/arm64-v8a/librtcmerged.so using class loader ns clns-5 (caller=/data/app/~~_l4AI9eTKJmmEVftp4Wt4g==/com.instagram.barcelona-tzng0H3STyY3AC4CxqVuyg==/base.apk!classes9.dex): ok
+07-23 10:27:53.555  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:53.556  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:53.556  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:53.558 16288 16695 I DGW     : I[startCommon:117] DGW: Starting DGW service for 67358848730
+07-23 10:27:53.558 16288 16695 I DGW     : I[setDGWCoreQPLSampleRates:66] DGW: Core QPL sampling rates: 100000 & 100000
+07-23 10:27:53.559 16288 16695 I DGW     : I[clearStream:302] DGW: Clearing stream coordinators
+07-23 10:27:53.559 16288 16695 I DGW     : I[startNewStream:257] DGW: Starting new stream, traceId=22747208776391309673860103193_1
+07-23 10:27:53.559 16288 16695 I DGW     : I[start:39] DGW: StreamGroup starting: traceId=22747208776391309673860103193_1, service=rpsignaling
+07-23 10:27:53.559 16288 16656 I DGW     : I[onStateChanged:742] DGW: Connectivity state changed: NotStarted
+07-23 10:27:53.559 16288 16695 W DGW     : W[setEnabled:182] StreamGroupPinger[rpsignaling]: setEnabled: 0
+07-23 10:27:53.560 16288 16418 W Profilo/TraceControl: Loom client config id: 5362305679877808984
+07-23 10:27:53.561 16288 16695 I DGW     : I[addStreamCoordinator:211] DGW: Adding stream coordinator (DC)
+07-23 10:27:53.561 16288 16695 I DGW     : I[establishStream:289] DGW: Establishing stream: streamId=1
+07-23 10:27:53.561 16288 16695 I DGW     : I[establishStream:96] DGW: StreamGroup establishing stream: traceId=1
+07-23 10:27:53.563 16288 16695 W DGW     : W[setEnabled:182] StreamGroupPinger[rpsignaling]: setEnabled: 1
+07-23 10:27:53.563 16288 16695 I DGW     : I[onConnecting:182] DGW: StreamGroup connecting: traceId=22747208776391309673860103193_1_1
+07-23 10:27:53.563 16288 16695 I DGW     : I[onStreamReady:587] DGW: Stream ready, streamId: 1
+07-23 10:27:53.568 16214 16582 D WM-PackageManagerHelper: Skipping component enablement for androidx.work.impl.background.systemjob.SystemJobService
+07-23 10:27:53.568 16214 16582 D WM-Schedulers: Created SystemJobScheduler and enabled SystemJobService
+07-23 10:27:53.570 16214 16462 D WM-ForceStopRunnable: Is default app process = true
+07-23 10:27:53.571 16214 16462 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10233; state: ENABLED
+07-23 10:27:53.575 16214 16462 D WM-ForceStopRunnable: Performing cleanup operations.
+07-23 10:27:53.584  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10233
+07-23 10:27:53.588 16214 16464 I Finsky:background: [13958] SSM: Start staged session task with 0 tracked staged sessions
+07-23 10:27:53.614 16288 16418 W PLogCrashRecoveryNeedInit: recoverPreviousSession returned
+07-23 10:27:53.625 16288 16665 W DGW     : W[onSuccessfulResponse:942] StreamGroupTransport[lightspeed] on successful response. DGW is now connected.
+07-23 10:27:53.638 16214 16462 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10233; state: ENABLED
+07-23 10:27:53.646 16288 16418 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [X.03gM.run(:25)] [X.04Ad.invokeSuspend(:389)] [X.02dQ.resumeWith(:10)] [X.02A6.run(:89)] [X.02AB.run(:2)] [X.01od.run(:25)] [X.01od.run(:25)] [X.01oc.A00(:122)] [X.01oc.run(:102)]
+07-23 10:27:53.648  1268  5155 D ConnectivityService: requestNetwork for uid/pid:10567/16288 activeRequest: null callbackRequest: 47893 [NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647 isUidTracked: false declaredMethods: AVAIL|LOST|NC
+07-23 10:27:53.649 16214 16462 D WM-PackageManagerHelper: Skipping component enablement for androidx.work.impl.background.systemalarm.RescheduleReceiver
+07-23 10:27:53.649  1268  2250 D ConnectivityService:    accepting network in place of null for NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.651  1268  2240 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.652  1268  2240 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.652  1268  2240 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.653  1268  2240 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=47894, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10567 RequestorUid: 10567 RequestorPkg: com.instagram.barcelona UnderlyingNetworks: Null] ]
+07-23 10:27:53.653  1268  2250 D ConnectivityService: Rematched networks [computed 0ms] [applied 1ms] [issued 3]
+07-23 10:27:53.653  1268  2250 D ConnectivityService: NetworkReassignment :
+07-23 10:27:53.653  1268  2250 D ConnectivityService:   47894 : null → 213
+07-23 10:27:53.714 16288 16690 E MDCoreSyncManagerImpl: Unknown event type: SUBSCRIPTION_STATE_CHANGED
+07-23 10:27:53.745 16288 16695 W DGW     : W[onSuccessfulResponse:942] StreamGroupTransport[rpsignaling] on successful response. DGW is now connected.
+07-23 10:27:53.745 16288 16695 I DGW     : I[onStreamGroupCreation:721] DGW: StreamGroup ready
+07-23 10:27:53.773 16214 16514 W FeatureFlagsImplExport: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+07-23 10:27:53.793  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.029857937]
+07-23 10:27:53.793  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.17553574]
+07-23 10:27:53.793  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.83918554]
+07-23 10:27:53.793  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.374323 msecs
+07-23 10:27:53.794  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 0.713489 msecs
+07-23 10:27:53.794  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 0.6125 msecs
+07-23 10:27:53.807 16288 16295 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: X.00xw
+07-23 10:27:53.829  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10567
+07-23 10:27:53.831  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10567
+07-23 10:27:53.832  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10567
+07-23 10:27:53.834  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10567
+07-23 10:27:53.838 16288 16476 E msys    : E[N mns:TigonMNS]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:53.844 16288 16476 E msys    : E[N mns:TigonMNS]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:53.844 16288 16476 E msys    : E[N mns:TigonMNS]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:53.844 16288 16476 E msys    : E[N mns:TigonMNS]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:53.853 16288 16296 W System  : A resource failed to call ZipFile.close. 
+07-23 10:27:53.854 16288 16296 W System  : A resource failed to call close. 
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelAllNotifications(SourceFile:14)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:381)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.271 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.274 16271 16271 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10655; state: ENABLED
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.276 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.278 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.280 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.281 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.283 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.284 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.286 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.288 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: Failed to handle method call
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: java.lang.IllegalStateException: TypeToken must be created with a type argument: new TypeToken<...>() {}; When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved.
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at i2.a.<init>(SourceFile:10)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.loadScheduledNotifications(SourceFile:26)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.removeNotificationFromCache(SourceFile:1)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancelNotification(SourceFile:55)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.cancel(SourceFile:21)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsPlugin.onMethodCall(SourceFile:423)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at A2.d.t(SourceFile:26)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at s2.c.run(SourceFile:128)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at android.app.ActivityThread.main(ActivityThread.java:8762)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:604)
+07-23 10:27:54.289 16271 16271 E MethodChannel#dexterous.com/flutter/local_notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1067)
+07-23 10:27:54.296  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.017682739]
+07-23 10:27:54.296  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.05470547]
+07-23 10:27:54.297  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.961231]
+07-23 10:27:54.297  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.696511 msecs
+07-23 10:27:54.298  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.247083 msecs
+07-23 10:27:54.300  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.485937 msecs
+07-23 10:27:54.432 16214 16389 I Finsky:background: [13948] WM::SCH: Logging work initialize for 3-20276
+07-23 10:27:54.435 16214 16464 I Finsky:background: [13958] SCH: Scheduling phonesky job Id: 3-20276, CT: 1784791673529, Constraints: [{ L: 0, D: 86400000, C: CHARGING_REQUIRED, I: IDLE_REQUIRED, N: NET_UNMETERED, B: BATTERY_ANY }]
+07-23 10:27:54.437 16214 16510 I Finsky:background: [13960] SCH: Scheduling 0 system job(s)
+07-23 10:27:54.453 16288 16492 W MultiSignalANRDetectorLacrima: Pausing error state checks
+07-23 10:27:54.556  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:54.556  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:54.556  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:54.576   706   706 D io_stats: !@   8,0 r 46679501 814408980 w 17507102 246320448 d 7933145 200818732 f 0 0 iot 11145572 0 th 0 0 0 pt 0 inp 0 1 435433.341
+07-23 10:27:54.800  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.016706161]
+07-23 10:27:54.801  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.58401084]
+07-23 10:27:54.801  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.8278899]
+07-23 10:27:54.801  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.538698 msecs
+07-23 10:27:54.804  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.396146 msecs
+07-23 10:27:54.806  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.781667 msecs
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: Could not obtain MC: not_user_session session=X.04cE@9a59e72
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: java.lang.RuntimeException: Could not obtain MC, call-site will receive default values
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.02fW.A05(:4)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.02fW.A03(:7)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.02fW.A01(:2)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.03ah.A01(:8)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.03ah.A03(:7)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.04ki.run(:7)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at X.01od.run(:25)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:27:54.928 16288 16480 W IgMetaConfig: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+07-23 10:27:54.995  1017 16268 I HYPER-HAL: [ResourceManager.cpp]removeResource(): [CPUMaxFreq] RemoveResource Request ID : 10367195
+07-23 10:27:54.995  1017 16268 I HYPER-HAL: [RequestManager.cpp]releaseLocked(): Released ID : 10367195
+07-23 10:27:55.242  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210939] accel_sample [-0.002,  1.766,  9.557] 528921430766793
+07-23 10:27:55.262  1268  2356 D NetdEventListenerService: DNS Requested by : 213, 10548
+07-23 10:27:55.262  1224  3046 E msgr.msys: E[N mns:TigonMNS]_OnResolverSuccess(359)=>Cache refresh succeeded with system DNS resolver. IP count: 1
+07-23 10:27:55.306  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.006332288]
+07-23 10:27:55.306  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.56847644]
+07-23 10:27:55.307  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.49235773]
+07-23 10:27:55.307  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.29875 msecs
+07-23 10:27:55.309  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.029844 msecs
+07-23 10:27:55.311  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.916458 msecs
+07-23 10:27:55.349 22814 23385 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=38b43908-0994-49ad-81b9-ec634b943b12, tags={ com.whatsapp.infra.networking.xmpp.lifecycle.XmppLifecycleWorker } ]
+07-23 10:27:55.360 22814 22814 D WM-Processor: GNB 38b43908-0994-49ad-81b9-ec634b943b12 executed; reschedule = false
+07-23 10:27:55.361 22814 22814 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=38b43908-0994-49ad-81b9-ec634b943b12, generation=0)
+07-23 10:27:55.361 22814 22814 D WM-SystemJobService: 38b43908-0994-49ad-81b9-ec634b943b12 executed on JobScheduler
+07-23 10:27:55.366  1268  2828 I ActivityManager: Changes in 10316 8 to 10, 8 to 0
+07-23 10:27:55.366  1307  1307 I CameraService: onUidStateChanged: uid=10316, procState is changed. (8 -> 10)
+07-23 10:27:55.367  1268  1729 E AppOps  : evalMode() Foreground mode : uid - 10316, op - 27, capability - 0
+07-23 10:27:55.367  1268  1729 E AppOps  : evalMode() Foreground mode : uid - 10316, op - 26, capability - 0
+07-23 10:27:55.367  1268  1729 E AppOps  : User 0, OP 1 is restricted by 1000
+07-23 10:27:55.368 13189 11239 I eozo    : (REDACTED) HDM. appOpsListener %s %s
+07-23 10:27:55.368 13189 11239 I eozo    : (REDACTED) HDM. Ignoring irrelevant audio permission changes for package %s
+07-23 10:27:55.369  3419  3484 I RequestManager_FLP: onOpChanged, op=0 / packageName=com.whatsapp
+07-23 10:27:55.370  1307  4969 I CameraService: onUidStateChanged: uid=10316, procState is changed. (10 -> 15)
+07-23 10:27:55.371 22814 23385 D WM-GreedyScheduler: Cancelling work ID 38b43908-0994-49ad-81b9-ec634b943b12
+07-23 10:27:55.375 22814 23385 D WM-NetworkStateTracker: Unregistering network callback
+07-23 10:27:55.376 22814 23385 D ConnectivityManager: StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5579)] [X.GLG.A04(:20)] [X.JKC.invoke(:115)] [X.1LQ.A00(:117)] [X.3Lv.invokeSuspend(:435)] [X.0nj.resumeWith(:8)] [X.0oA.run(:98)] [X.GKI.run(:2)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+07-23 10:27:55.377  1268  2250 D ConnectivityService:  Removing from current network [213 WIFI], leaving 255 requests.
+07-23 10:27:55.556  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:55.556  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:55.556  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:55.812  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.016078362]
+07-23 10:27:55.813  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.8497348]
+07-23 10:27:55.813  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.5848427]
+07-23 10:27:55.813  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.690052 msecs
+07-23 10:27:55.816  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.661041 msecs
+07-23 10:27:55.819  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 3.10974 msecs
+07-23 10:27:56.101  1268  2413 I Pageboost: IoRecord pid : 16271
+07-23 10:27:56.108  1268  2413 I Pageboost: IoRecord pid : 16271, result_size : 51830
+07-23 10:27:56.112  1268  2413 I Pageboost: db create : CREATE TABLE IF NOT EXISTS comdevlabmy_subscriptions (FILENAME TEXT, OFFSET INTEGER, SIZE INTEGER, FORVRAMDISK INTEGER, BITMAP BLOB, unique (FILENAME, OFFSET) );
+07-23 10:27:56.115  1268  2413 I Pageboost: db create : CREATE TABLE IF NOT EXISTS comdevlabmy_subscriptions (FILENAME TEXT, OFFSET INTEGER, SIZE INTEGER, FORVRAMDISK INTEGER, BITMAP BLOB, unique (FILENAME, OFFSET) );
+07-23 10:27:56.118  1268  2413 I Pageboost: db insert start
+07-23 10:27:56.230  1268  2413 I Pageboost: db insert done, overLimit false
+07-23 10:27:56.231  1268  2413 I Pageboost: captureFinished success : 69865472
+07-23 10:27:56.234  1268  2413 I Pageboost: db update :com.devlab.my_subscriptions ret 1
+07-23 10:27:56.286  1268  2413 I Pageboost: memUsage collected : 45833 0 768 for com.devlab.my_subscriptions 16271
+07-23 10:27:56.383 21177 21346 I ContactsProvider_EventLog: cp_s: [CONTACT con(331) dat(5528) acc({google(166)=313, com.google.android.apps.tachyon(60)=65, google(103)=6, org.telegram.messenger(216)=157, com.whatsapp.w4b(154)=301, com.whatsapp(5)=301, sec(13)=3}) trash_acc([.google:2])  trash(2) calls([logtype:100 cnt:610, logtype:300 cnt:330]) Iso(LB) uId(0) ]
+07-23 10:27:56.383 21177 21346 I ContactsProvider_EventLog: cp_s: [ agr({[5 ,154]=1, [166 ,5 ,154 ,216 ,60]=3, [5 ,154 ,60 ,166]=9, [103 ,5 ,154 ,60]=1, [103 ,5 ,154]=3, [5 ,154 ,166]=2, [166 ,216]=4, [166 ,5 ,154 ,216 ,216]=1, [5 ,154 ,166 ,60 ,216]=2, [166 ,5 ,154]=108, [5 ,154 ,166 ,60]=5, [216]=8, [166 ,60]=1, [166 ,154 ,216 ,5]=1, [166 ,5 ,216 ,154]=1, [166 ,154 ,5]=9, [103 ,5 ,154 ,216]=2, [166 ,5 ,154 ,216]=104, [154 ,5 ,166 ,60]=1, [166 ,154 ,5 ,60 ,216]=1, [5 ,154 ,60 ,166 ,216]=9, [166 ,5 ,154 ,60]=14, [13 ,5 ,154]=3, [166 ,154 ,5 ,216 ,60]=3, [166 ,5 ,154 ,60 ,216]=15, [166 ,154 ,5 ,216]=2, [166 ,154 ,5 ,60]=1, [166]=17}) ]
+07-23 10:27:56.383 21177 21346 I ContactsProvider_EventLog: cp_s: [ cnt({acore(21177)=1}) ]
+07-23 10:27:56.383 21177 21346 I ContactsProvider_EventLog: cp_s: [PROFILE ] [SAPROFILE ]
+07-23 10:27:56.383 21177 21346 I ContactsProvider_EventLog: cp_s: [STATE R(F) ]
+07-23 10:27:56.462  1268  4623 W ProcessStats: Tracking association SourceState{5a19102 com.devlab.my_subscriptions/10655 Top #2959608} whose proc state 1 is better than process ProcessState{e287ce0 com.google.android.gms.persistent/10232 pkg=com.google.android.gms} proc state 3 (1669 skipped)
+07-23 10:27:56.557  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:56.557  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:56.557  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:56.577   706   706 D io_stats: !@   8,0 r 46679755 814413008 w 17507454 246325152 d 7933145 200818732 f 0 0 iot 11145708 0 th 0 0 0 pt 0 inp 0 0 435435.343
+07-23 10:27:56.802  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.0282972]
+07-23 10:27:56.803  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.32760847]
+07-23 10:27:56.803  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.73995715]
+07-23 10:27:56.803  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.440365 msecs
+07-23 10:27:56.806  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.703438 msecs
+07-23 10:27:56.808  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.332396 msecs
+07-23 10:27:56.913 16288 16288 W FrscLanguagePack: FRSC English string not found for ID #0x7f13018f
+07-23 10:27:57.193 16271 16739 D ProfileInstaller: Installing profile for com.devlab.my_subscriptions
+07-23 10:27:57.287  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210949] accel_sample [-0.066,  1.791,  9.520] 528923474921012
+07-23 10:27:57.310  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.03115894]
+07-23 10:27:57.311  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.2940982]
+07-23 10:27:57.311  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.5904921]
+07-23 10:27:57.311  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.619896 msecs
+07-23 10:27:57.315  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 3.592916 msecs
+07-23 10:27:57.318  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.366407 msecs
+07-23 10:27:57.557  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:57.557  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:57.557  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:57.667  1268  1576 I ActivityManager: Changes in 10182 5 to 15, 8 to 0
+07-23 10:27:57.818  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.031571534]
+07-23 10:27:57.818  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.8330147]
+07-23 10:27:57.819  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.3551847]
+07-23 10:27:57.819  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.123802 msecs
+07-23 10:27:57.821  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.956927 msecs
+07-23 10:27:57.823  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.600156 msecs
+07-23 10:27:57.978 16288 16688 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 1177988
+07-23 10:27:57.988 16288 16688 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -26295
+07-23 10:27:58.001 16288 16688 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -18060
+07-23 10:27:58.324  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.05398246]
+07-23 10:27:58.324  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.49297857]
+07-23 10:27:58.324  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.43278137]
+07-23 10:27:58.324  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 0.776562 msecs
+07-23 10:27:58.326  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 1.42349 msecs
+07-23 10:27:58.327  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 1.376198 msecs
+07-23 10:27:58.327  1268  2309 I SemWifiServiceDetector: NSD results: [0, 1, 1, 0, 1, 0, 2, 1, 0] Traff. type 1 Thr 2529
+07-23 10:27:58.328  1268  2313 D SemWifiOptimizer: enable=1 state=0x10 prev=0x10 new=0x10 force=0 mode=0
+07-23 10:27:58.355 16288 16688 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -1133633
+07-23 10:27:58.558  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:58.558  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:58.558  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:58.581   706   706 D io_stats: !@ 179,0 r 16307 570840 w 3659 143776 d 0 0 f 0 0 iot 260428 0 th 0 0 0 pt 0 inp 0 0 435437.345
+07-23 10:27:58.581   706   706 D io_stats: !@   8,0 r 46680252 814422064 w 17507663 246327352 d 7933309 200821280 f 0 0 iot 11145824 0 th 0 0 0 pt 0 inp 0 0 435437.346
+07-23 10:27:58.829  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.10282906]
+07-23 10:27:58.830  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.69722885]
+07-23 10:27:58.831  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.7187578]
+07-23 10:27:58.831  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.597656 msecs
+07-23 10:27:58.834  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.658854 msecs
+07-23 10:27:58.837  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.92776 msecs
+07-23 10:27:59.061  1268  2828 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 0
+07-23 10:27:59.061  1268  2828 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:27:59.062  1268  2464 D SGM:GameManager: identifyForegroundApp. com.devlab.my_subscriptions, mCurrentUserId: 0, callerUserId: 150
+07-23 10:27:59.062  1268  2464 D SGM:PkgDataHelper: getGamePkgData(). com.devlab.my_subscriptions
+07-23 10:27:59.062 25336 25364 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:27:59.063 14901 14940 I PolicyManager: [#CMH#] Is foreground game app: false
+07-23 10:27:59.296  1268  2464 I GenerationRegistry: mBackingStore.isClosed() : false
+07-23 10:27:59.305 16214 16745 I Finsky:background: [13990] playLoggingServerUrl: https://play.googleapis.com/play/log
+07-23 10:27:59.305 16214 16745 I Finsky:background: [13990] playLoggingServerTimestampUrl: https://play.googleapis.com/play/log/timestamp
+07-23 10:27:59.331  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210959] accel_sample [ 0.457,  1.683,  9.527] 528925519087262
+07-23 10:27:59.558  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:27:59.558  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:27:59.558  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:27:59.678  7102  7102 I wpa_supplicant: Heartbeat 11131
+07-23 10:27:59.803  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.006334049]
+07-23 10:27:59.804  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.6030566]
+07-23 10:27:59.804  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.9408813]
+07-23 10:27:59.805  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.471146 msecs
+07-23 10:27:59.807  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.63099 msecs
+07-23 10:27:59.810  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.261615 msecs
+07-23 10:27:59.810  1268  2309 I SemWifiServiceDetector: NSD results: [1, 1, 1, 0, 1, 1, 2, 1, 0] Traff. type 1 Thr 0
+07-23 10:27:59.814  1268  2313 D SemWifiOptimizer: enable=1 state=0x10 prev=0x10 new=0x10 force=0 mode=0
+07-23 10:28:00.314  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.019160448]
+07-23 10:28:00.315  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.5314972]
+07-23 10:28:00.315  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.91271186]
+07-23 10:28:00.315  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.660885 msecs
+07-23 10:28:00.318  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.541823 msecs
+07-23 10:28:00.320  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.25125 msecs
+07-23 10:28:00.558  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:28:00.559  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:28:00.559  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:28:00.582   706   706 D io_stats: !@   8,0 r 46680285 814422196 w 17507679 246327752 d 7933309 200821280 f 0 0 iot 11145852 0 th 0 0 0 pt 0 inp 0 0 435439.347
+07-23 10:28:00.821  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.012374655]
+07-23 10:28:00.822  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.4476595]
+07-23 10:28:00.823  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.955561]
+07-23 10:28:00.823  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.462813 msecs
+07-23 10:28:00.825  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.626563 msecs
+07-23 10:28:00.828  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.269791 msecs
+07-23 10:28:01.183  1268  2279 D UsbStatsMonitor: 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26804890894362
+07-23 10:28:01.329  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.016873352]
+07-23 10:28:01.330  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.12148235]
+07-23 10:28:01.331  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.97613657]
+07-23 10:28:01.331  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.618437 msecs
+07-23 10:28:01.334  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.70427 msecs
+07-23 10:28:01.337  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.976823 msecs
+07-23 10:28:01.376  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210969] accel_sample [ 0.296,  1.737,  9.512] 528927563258980
+07-23 10:28:01.462  1268  1582 D CompatibilityChangeReporter: Compat change id reported: 168419799; UID 10567; state: DISABLED
+07-23 10:28:01.559  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:28:01.559  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:28:01.559  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:28:01.838  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.029046768]
+07-23 10:28:01.839  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.25458956]
+07-23 10:28:01.839  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.9457766]
+07-23 10:28:01.839  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.628073 msecs
+07-23 10:28:01.842  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 3.24052 msecs
+07-23 10:28:01.845  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.239323 msecs
+07-23 10:28:01.940  4539  5658 I SDHMS:D : SIOP:: AP:374 BAT:352 USB:352 CHG:352 PA:380 CP:357 WIFI:373 CF:361 BLK:0 SUBBAT:0 SKIN:369 SKINF:364 SKINB:365 LRP:369 LRF:364 LRB:365 BLRF:368 BLRB:369 APT:357 APR:356 ANT0:-2730 
+07-23 10:28:01.940  4539  5658 I SDHMS:D : MODEMQ:: 
+07-23 10:28:02.069 14884 15452 I PlayCommon: [13991] 1 files were purged due to exceeding total storage size of 2097152
+07-23 10:28:02.142 14884 15452 I PlayCommon: [13991] Preparing logs for uploading
+07-23 10:28:02.177 31281 31291 E AuthPII : [RequestTokenManager] getToken() -> BAD_AUTHENTICATION. App: com.android.vending, Service: oauth2:https://www.googleapis.com/auth/googleplay
+07-23 10:28:02.177 31281 31291 E AuthPII : bjja: Long live credential not available.
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahme.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):1383)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahml.b(:com.google.android.gms@262634029@26.26.34 (190400-945364269):26)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahmj.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):661)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahmi.b(:com.google.android.gms@262634029@26.26.34 (190400-945364269):152)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at aayv.d(:com.google.android.gms@262634029@26.26.34 (190400-945364269):113)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahfv.getAuthToken(:com.google.android.gms@262634029@26.26.34 (190400-945364269):408)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.getAuthToken(AbstractAccountAuthenticator.java:246)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:242)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at cqme.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):12)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at cdrb.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):169)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1321)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1280)
+07-23 10:28:02.177 31281 31291 E AuthPII : Message is Long live credential not available.
+07-23 10:28:02.177 31281 31291 E AuthPII : bjja: Long live credential not available.
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahme.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):1383)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahml.b(:com.google.android.gms@262634029@26.26.34 (190400-945364269):26)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahmj.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):661)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahmi.b(:com.google.android.gms@262634029@26.26.34 (190400-945364269):152)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at aayv.d(:com.google.android.gms@262634029@26.26.34 (190400-945364269):113)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at ahfv.getAuthToken(:com.google.android.gms@262634029@26.26.34 (190400-945364269):408)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.accounts.AbstractAccountAuthenticator$Transport.getAuthToken(AbstractAccountAuthenticator.java:246)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:242)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at cqme.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):12)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at cdrb.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):169)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1321)
+07-23 10:28:02.177 31281 31291 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1280)
+07-23 10:28:02.192 31281 31291 I Auth    : (REDACTED) [GetToken] GetToken failed for app=%s with userRecoverable status: %s 
+07-23 10:28:02.193 31281 31291 W Auth    : [ChimeraGetToken] exception while trying to fetch auth tokens for app=com.google.android.gsf, scope=oauth2:https://www.googleapis.com/auth/googleplay [CONTEXT service_id=153 ]
+07-23 10:28:02.193 31281 31291 W Auth    : ahmd: GetToken failed with status code and recovery intent: BadAuthentication
+07-23 10:28:02.193 31281 31291 W Auth    : 	at ahmi.b(:com.google.android.gms@262634029@26.26.34 (190400-945364269):353)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at aayv.d(:com.google.android.gms@262634029@26.26.34 (190400-945364269):113)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at ahfv.getAuthToken(:com.google.android.gms@262634029@26.26.34 (190400-945364269):408)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.accounts.AbstractAccountAuthenticator$Transport.getAuthToken(AbstractAccountAuthenticator.java:246)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:242)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at cqme.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):12)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.os.Binder.transact(Binder.java:1200)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at cdrb.onTransact(:com.google.android.gms@262634029@26.26.34 (190400-945364269):169)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.os.Binder.execTransactInternal(Binder.java:1321)
+07-23 10:28:02.193 31281 31291 W Auth    : 	at android.os.Binder.execTransact(Binder.java:1280)
+07-23 10:28:02.193 31281 31291 W GLSActivity: [GmsAccountAuthenticatorImpl] error status while fetching token:BadAuthentication
+07-23 10:28:02.200 14884 15452 W PlayCommon: [13991] Deferring log upload because couldn't retrieve auth token
+07-23 10:28:02.526  1009  1009 I android.hardware.health@2.1-service-samsung: updateLrpSysfs: write: 369
+07-23 10:28:02.559  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:28:02.559  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:28:02.559  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:28:02.583   706   706 D io_stats: !@   8,0 r 46680307 814422616 w 17507701 246327844 d 7933309 200821280 f 0 0 iot 11145872 0 th 0 0 0 pt 0 inp 0 0 435441.348
+07-23 10:28:02.809  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.034845334]
+07-23 10:28:02.810  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.15131801]
+07-23 10:28:02.810  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.8858375]
+07-23 10:28:02.810  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.160989 msecs
+07-23 10:28:02.812  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 2.294948 msecs
+07-23 10:28:02.815  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.192812 msecs
+07-23 10:28:02.884  1268  2464 E AppOps  : Bad call made by uid 10232. Package "com.google.android.gms" does not belong to uid 10655.
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: Failed to get service from broker. 
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3045)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3029)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3012)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:2954)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at bjvt.a(:com.google.android.gms@262634029@26.26.34 (190400-945364269):36)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at bjtp.y(:com.google.android.gms@262634029@26.26.34 (190400-945364269):144)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at bizr.run(:com.google.android.gms@262634029@26.26.34 (190400-945364269):42)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:942)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at dbjk.mX(:com.google.android.gms@262634029@26.26.34 (190400-945364269):1)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at dbjk.dispatchMessage(:com.google.android.gms@262634029@26.26.34 (190400-945364269):5)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:313)
+07-23 10:28:02.886 16271 16571 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+07-23 10:28:02.887 16271 16571 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+07-23 10:28:02.957   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:28:02.958   653   672 D OPS_SERVICE: set_display_clock_vote 1
+07-23 10:28:02.960   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:28:02.960   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:28:02.960   653   672 D OPS_SERVICE: OPS Received command id = 0
+07-23 10:28:02.960   653   672 D OPS_SERVICE: set_display_clock_vote 0
+07-23 10:28:02.961   653   672 D OPS_SERVICE: ioctl_continue_command finished! and return 0 
+07-23 10:28:02.961   653   672 D OPS_SERVICE: before calling ioctl to read the next ops_cmd
+07-23 10:28:03.316  1268  2309 D SemNscXgbMsL1: Probability - Cloud gaming: [0.046600476]
+07-23 10:28:03.317  1268  2309 D SemNscXgbMsL1: Probability - Real time: [0.21038924]
+07-23 10:28:03.317  1268  2309 D SemNscXgbMsL1: Probability - Non real time: [0.91552174]
+07-23 10:28:03.317  1268  2309 D SemNscXgbMsL1: 1 sample inference time: 1.181355 msecs
+07-23 10:28:03.320  1268  2309 D SemNscXgbL2Rt: L2 RT 1 sample inference time: 3.053854 msecs
+07-23 10:28:03.323  1268  2309 D SemNscXgbL2Nrt: L2 NRT 1 sample inference time: 2.190469 msecs
+07-23 10:28:03.323  1268  2309 I SemWifiServiceDetector: NSD results: [0, 1, 2, 0, 0, 1, 2, 1, 0] Traff. type 1 Thr 0
+07-23 10:28:03.324  1268  2313 D SemWifiOptimizer: enable=0 state=0x10 prev=0x10 new=0x00 force=0 mode=0
+07-23 10:28:03.419  1013  7469 I sensors-hal: handle_sns_client_event:541, [0][210979] accel_sample [ 0.646,  1.683,  9.617] 528929607429605
+07-23 10:28:03.503  3617  3617 I adbd    : adbd service requested 'shell,v2:export ANDROID_LOG_TAGS=''; exec logcat '-d' '-t' '500''
+07-23 10:28:03.539  1268  1740 D MARsPolicyManager: triggerAction called!
+07-23 10:28:03.539  1268  1740 I NSLocationMonitor: getGPSUsingApps() called
+07-23 10:28:03.549  3419  3428 I NSLocationManager_FLP: getGPSUsingApps, NO_FREEZE={5013} / FREEZE={}
+07-23 10:28:03.555   737 16041 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+07-23 10:28:03.556  1268  1740 D MARs:ActiveTrafficFilter: filter : com.whatsapp(0)
+07-23 10:28:03.557  1268  1740 D MARs:ActiveTrafficFilter: filter : com.openai.chatgpt(0)
+07-23 10:28:03.557  1268  1740 D MARs:ActiveTrafficFilter: filter : com.duolingo(0)
+07-23 10:28:03.558  1268  1740 D MARs:ActiveTrafficFilter: filter : com.microsoft.skydrive(0)
+07-23 10:28:03.559  1268  1740 D MARs:ActiveTrafficFilter: filter : com.instagram.barcelona(0)
+07-23 10:28:03.559  1268  1740 D MARs:ActiveTrafficFilter: filter : com.todoist(0)
+07-23 10:28:03.559  1451  2360 I bauth_FPBAuthService: pcf : 0x1012, 0 ,1 ,0 ,0 ,0 ,0, 7.0.0.0
+07-23 10:28:03.559  1451  2360 I bauth_FPBAuthService: thread id : 1, preenroll_flag : 0, nd cnt : 0, cso : 0, et : 0
+07-23 10:28:03.559  1451  2360 I bauth_FPBAuthService: FPBAuthService, 11511
+07-23 10:28:03.560  1268  1740 D MARs:ActiveTrafficFilter: filter : com.facebook.orca(0)

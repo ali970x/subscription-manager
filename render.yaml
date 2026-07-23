@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: subtrack
+    runtime: static
+    buildCommand: |
+      git clone https://github.com/flutter/flutter.git --depth 1 --branch stable /tmp/flutter
+      /tmp/flutter/bin/flutter config --enable-web
+      /tmp/flutter/bin/flutter pub get
+      /tmp/flutter/bin/flutter build web --release
+    staticPublishPath: build/web
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
