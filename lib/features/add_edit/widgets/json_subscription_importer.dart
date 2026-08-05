@@ -126,6 +126,8 @@ class _JsonSubscriptionImporterState
             minLines: 8,
             maxLines: 14,
             autocorrect: false,
+            textDirection: TextDirection.ltr,
+            textAlign: TextAlign.left,
             decoration: InputDecoration(
               hintText:
                   '{"name":"Gemini","email":"...","price":19,"startDate":"2026-07-01","expiryDate":"2028-01-01"}',

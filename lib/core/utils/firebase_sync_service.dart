@@ -27,7 +27,10 @@ class FirebaseSyncService {
 
   Future<UserCredential> signInWithGoogle() async {
     if (kIsWeb) {
-      return auth.signInWithPopup(GoogleAuthProvider());
+      await auth.setPersistence(Persistence.LOCAL);
+      final provider = GoogleAuthProvider()
+        ..setCustomParameters(const {'prompt': 'select_account'});
+      return auth.signInWithPopup(provider);
     }
     if (!_googleInitialized) {
       await GoogleSignIn.instance.initialize();

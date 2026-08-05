@@ -37,6 +37,13 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
           'Use a stronger password with at least 6 characters.',
         'invalid-email' => 'Enter a valid email address.',
         'network-request-failed' => 'Check your internet connection.',
+        'unauthorized-domain' =>
+          'This website is not authorized in Firebase Authentication.',
+        'popup-blocked' =>
+          'Allow pop-ups for this website, then try Google sign-in again.',
+        'popup-closed-by-user' => 'Google sign-in was cancelled.',
+        'operation-not-allowed' =>
+          'Google sign-in is not enabled for this Firebase project.',
         _ => value.message ?? 'Authentication failed. Please try again.',
       };
     }
@@ -93,6 +100,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
         content: TextField(
           controller: controller,
           keyboardType: TextInputType.emailAddress,
+          textDirection: TextDirection.ltr,
+          textAlign: TextAlign.left,
           autofocus: true,
           decoration: const InputDecoration(
             labelText: 'Email address',
@@ -183,6 +192,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                     TextFormField(
                       controller: emailController,
                       keyboardType: TextInputType.emailAddress,
+                      textDirection: TextDirection.ltr,
+                      textAlign: TextAlign.left,
                       autofillHints: const [AutofillHints.email],
                       decoration: const InputDecoration(
                         labelText: 'Email address',
@@ -199,6 +210,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                     TextFormField(
                       controller: passwordController,
                       obscureText: obscurePassword,
+                      textDirection: TextDirection.ltr,
+                      textAlign: TextAlign.left,
                       autofillHints: const [AutofillHints.password],
                       decoration: InputDecoration(
                         labelText: 'Password',

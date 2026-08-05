@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:intl/intl.dart';
+import 'package:intl/intl.dart' hide TextDirection;
 import 'package:uuid/uuid.dart';
 import '../../../core/constants/app_strings.dart';
 import '../../../core/utils/date_helper.dart';
@@ -23,6 +23,7 @@ class AddEditScreen extends ConsumerStatefulWidget {
 
 class _AddEditScreenState extends ConsumerState<AddEditScreen> {
   final formKey = GlobalKey<FormState>();
+  late final ScrollController scrollController;
   late final TextEditingController nameController;
   late final TextEditingController priceController;
   late final TextEditingController notesController;
@@ -159,6 +160,7 @@ class _AddEditScreenState extends ConsumerState<AddEditScreen> {
   @override
   void initState() {
     super.initState();
+    scrollController = ScrollController(keepScrollOffset: false);
     final item = widget.subscription;
     nameController = TextEditingController(text: item?.name ?? '');
     priceController = TextEditingController(
@@ -193,6 +195,7 @@ class _AddEditScreenState extends ConsumerState<AddEditScreen> {
 
   @override
   void dispose() {
+    scrollController.dispose();
     nameController.dispose();
     priceController.dispose();
     notesController.dispose();
@@ -208,48 +211,6 @@ class _AddEditScreenState extends ConsumerState<AddEditScreen> {
 
   void recomputeRenewal() =>
       renewalDate = DateHelper.nextRenewal(startDate, cycle);
-
-  Future<void> pasteAccountBlock() async {
-    final text = (await Clipboard.getData(Clipboard.kTextPlain))?.text ?? '';
-    if (text.trim().isEmpty) return;
-    String value(RegExp pattern) =>
-        pattern.firstMatch(text)?.group(1)?.trim() ?? '';
-    final email =
-        RegExp(r'[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}').firstMatch(text)?.group(0) ??
-        '';
-    final urls = RegExp(
-      r'https?://\S+',
-    ).allMatches(text).map((e) => e.group(0)!).toList();
-    setState(() {
-      if (email.isNotEmpty) emailController.text = email;
-      usernameController.text = value(
-        RegExp(
-          r'(?:user(?:name)?|login)\s*[:=-]\s*([^\r\n,]+)',
-          caseSensitive: false,
-        ),
-      );
-      passwordController.text = value(
-        RegExp(
-          r'(?:pass(?:word)?|pwd)\s*[:=-]\s*([^\r\n,]+)',
-          caseSensitive: false,
-        ),
-      );
-      pinController.text = value(
-        RegExp(r'pin\s*[:=-]\s*([^\r\n,]+)', caseSensitive: false),
-      );
-      if (urls.isNotEmpty) {
-        loginUrlController.text = urls.first;
-      }
-      if (urls.length > 1) {
-        codeUrlController.text = urls[1];
-      }
-    });
-    if (mounted) {
-      ScaffoldMessenger.of(
-        context,
-      ).showSnackBar(const SnackBar(content: Text('Account details pasted')));
-    }
-  }
 
   Future<void> pickDate(bool renewal) async {
     final initial = renewal ? renewalDate : startDate;
@@ -393,17 +354,9 @@ class _AddEditScreenState extends ConsumerState<AddEditScreen> {
       body: Form(
         key: formKey,
         child: ListView(
+          controller: scrollController,
           padding: const EdgeInsets.fromLTRB(16, 8, 16, 120),
           children: [
-            Align(
-              alignment: AlignmentDirectional.centerEnd,
-              child: FilledButton.tonalIcon(
-                onPressed: pasteAccountBlock,
-                icon: const Icon(Icons.content_paste_rounded),
-                label: const Text('Paste account details'),
-              ),
-            ),
-            const SizedBox(height: 14),
             Text(
               context.l10n.text('suggestions'),
               style: const TextStyle(fontWeight: FontWeight.w700),
@@ -784,6 +737,8 @@ class _AccountFieldState extends State<_AccountField> {
     child: TextFormField(
       controller: widget.controller,
       obscureText: hidden,
+      textDirection: TextDirection.ltr,
+      textAlign: TextAlign.left,
       decoration: InputDecoration(
         labelText: widget.label,
         prefixIcon: Icon(widget.icon),

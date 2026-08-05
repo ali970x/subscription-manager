@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -6,10 +7,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'app.dart';
 import 'core/utils/notification_service.dart';
 import 'data/models/subscription_model.dart';
+import 'data/demo/demo_subscriptions.dart';
 import 'data/migrations/data_migrations.dart';
 import 'data/repositories/subscription_repository.dart';
 import 'providers/settings_provider.dart';
 import 'providers/subscription_provider.dart';
+import 'providers/demo_mode_provider.dart';
 import 'firebase_options.dart';
 
 Future<void> main() async {
@@ -19,7 +22,15 @@ Future<void> main() async {
   if (!Hive.isAdapterRegistered(0)) {
     Hive.registerAdapter(SubscriptionModelAdapter());
   }
-  final box = await Hive.openBox<SubscriptionModel>('subscriptions');
+  final demoMode =
+      kIsWeb && Uri.base.queryParameters['demo']?.toLowerCase() == 'true';
+  final box = await Hive.openBox<SubscriptionModel>(
+    demoMode ? 'subscriptions_portfolio_demo' : 'subscriptions',
+  );
+  if (demoMode && box.isEmpty) {
+    final demoItems = buildDemoSubscriptions(DateTime.now());
+    await box.putAll({for (final item in demoItems) item.id: item});
+  }
   final preferences = await SharedPreferences.getInstance();
   final subscriptionsMigrated = await migrateSubscriptionTaxonomyV2(
     box,
@@ -65,6 +76,7 @@ Future<void> main() async {
           SubscriptionRepository(box),
         ),
         sharedPreferencesProvider.overrideWithValue(preferences),
+        demoModeProvider.overrideWithValue(demoMode),
       ],
       child: const SubTrackApp(),
     ),

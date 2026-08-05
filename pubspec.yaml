@@ -91,6 +91,11 @@ flutter_launcher_icons:
   adaptive_icon_background: "#080B24"
   adaptive_icon_foreground: assets/branding/subtrack_icon.png
   remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: assets/branding/subtrack_icon.png
+    background_color: "#F6F7FC"
+    theme_color: "#171A3E"
 
   # To add assets to your application, add an assets section, like this:
   # assets:

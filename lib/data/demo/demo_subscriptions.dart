@@ -1,0 +1,97 @@
+import '../models/subscription_model.dart';
+
+List<SubscriptionModel> buildDemoSubscriptions(DateTime now) {
+  final today = DateTime(now.year, now.month, now.day);
+
+  SubscriptionModel item({
+    required String id,
+    required String name,
+    required String category,
+    required double price,
+    required String cycle,
+    required DateTime start,
+    required DateTime renewal,
+    required String color,
+    bool paid = true,
+  }) => SubscriptionModel(
+    id: id,
+    name: name,
+    category: category,
+    price: price,
+    currency: 'USD',
+    billingCycle: cycle,
+    startDate: start,
+    nextRenewalDate: renewal,
+    colorHex: color,
+    isPaid: paid,
+    paidAt: paid ? today : null,
+    notifyBeforeRenewal: true,
+    notifyDaysBefore: 3,
+    notes: 'Portfolio demo data',
+  );
+
+  return [
+    item(
+      id: 'demo-chatgpt-team',
+      name: 'ChatGPT',
+      category: 'ai_tools',
+      price: 20,
+      cycle: 'monthly',
+      start: today.subtract(const Duration(days: 27)),
+      renewal: today.add(const Duration(days: 3)),
+      color: '#10A37F',
+    ),
+    item(
+      id: 'demo-gemini',
+      name: 'Gemini',
+      category: 'ai_tools',
+      price: 19,
+      cycle: 'yearly',
+      start: DateTime(today.year, 1, 1),
+      renewal: DateTime(today.year + 1, 1, 1),
+      color: '#4D96FF',
+    ),
+    item(
+      id: 'demo-canva',
+      name: 'Canva',
+      category: 'design_editing',
+      price: 12.99,
+      cycle: 'monthly',
+      start: today.subtract(const Duration(days: 18)),
+      renewal: today.add(const Duration(days: 12)),
+      color: '#7B61FF',
+      paid: false,
+    ),
+    item(
+      id: 'demo-capcut',
+      name: 'CapCut',
+      category: 'design_editing',
+      price: 9.99,
+      cycle: 'monthly',
+      start: today.subtract(const Duration(days: 10)),
+      renewal: today.add(const Duration(days: 20)),
+      color: '#111827',
+    ),
+    item(
+      id: 'demo-netflix',
+      name: 'Netflix',
+      category: 'entertainment',
+      price: 15.49,
+      cycle: 'monthly',
+      start: today.subtract(const Duration(days: 24)),
+      renewal: today.add(const Duration(days: 6)),
+      color: '#E50914',
+    ),
+    item(
+      id: 'demo-youtube',
+      name: 'YouTube Premium',
+      category: 'entertainment',
+      price: 13.99,
+      cycle: 'monthly',
+      start: today.subtract(const Duration(days: 14)),
+      renewal: today.add(const Duration(days: 16)),
+      color: '#FF1744',
+      paid: false,
+    ),
+  ];
+}

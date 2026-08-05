@@ -10,6 +10,7 @@ import 'features/stats/screens/stats_screen.dart';
 import 'providers/settings_provider.dart';
 import 'providers/firebase_sync_provider.dart';
 import 'providers/subscription_provider.dart';
+import 'providers/demo_mode_provider.dart';
 
 class SubTrackApp extends ConsumerWidget {
   const SubTrackApp({super.key});
@@ -17,6 +18,7 @@ class SubTrackApp extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final settings = ref.watch(settingsProvider);
+    final demoMode = ref.watch(demoModeProvider);
     final firebaseUser = ref.watch(firebaseUserProvider);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
@@ -32,13 +34,15 @@ class SubTrackApp extends ConsumerWidget {
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
-      home: firebaseUser.when(
-        loading: () => const _StartupScreen(),
-        error: (_, _) => const LoginScreen(),
-        data: (user) => user == null
-            ? const LoginScreen()
-            : const _CloudSyncBootstrap(child: AppShell()),
-      ),
+      home: demoMode
+          ? const AppShell()
+          : firebaseUser.when(
+              loading: () => const _StartupScreen(),
+              error: (_, _) => const LoginScreen(),
+              data: (user) => user == null
+                  ? const LoginScreen()
+                  : const _CloudSyncBootstrap(child: AppShell()),
+            ),
     );
   }
 }

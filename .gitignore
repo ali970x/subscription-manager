@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Local device captures and diagnostic evidence (may contain personal data)
+/*.png
+/*.txt
+/android/build/
+/android/key.properties
+/android/app/*.jks
+/android/app/*.keystore

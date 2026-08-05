@@ -4,6 +4,7 @@ import '../../../core/constants/app_strings.dart';
 import '../../../core/extensions/datetime_extensions.dart';
 import '../../../providers/subscription_provider.dart';
 import '../../../providers/category_provider.dart';
+import '../../../providers/demo_mode_provider.dart';
 import '../../../data/models/subscription_model.dart';
 import '../../add_edit/screens/add_edit_screen.dart';
 import '../../add_edit/widgets/json_subscription_importer.dart';
@@ -57,6 +58,34 @@ class HomeScreen extends ConsumerWidget {
               110,
             ),
             children: [
+              if (ref.watch(demoModeProvider)) ...[
+                Container(
+                  margin: const EdgeInsets.only(bottom: 14),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 14,
+                    vertical: 10,
+                  ),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF10A37F).withValues(alpha: .12),
+                    borderRadius: BorderRadius.circular(16),
+                    border: Border.all(
+                      color: const Color(0xFF10A37F).withValues(alpha: .3),
+                    ),
+                  ),
+                  child: const Row(
+                    children: [
+                      Icon(Icons.science_outlined, color: Color(0xFF10A37F)),
+                      SizedBox(width: 10),
+                      Expanded(
+                        child: Text(
+                          'Portfolio demo · isolated sample data in this browser',
+                          style: TextStyle(fontWeight: FontWeight.w800),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
               const _HomeHeader(),
               const SizedBox(height: 22),
               const SummaryCard(),
